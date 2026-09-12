@@ -1,0 +1,694 @@
+h2 200
+date: Sat, 12 Sep 2026 05:15:43 GMT
+content-type: text/html; charset=utf-8
+cf-ray: a39c6f9ad8921e47-EBL
+cf-cache-status: DYNAMIC
+cache-control: private, no-store
+content-language: ar
+link: </css/output.css?v=1789048603113>; rel=preload; as=style, </fonts/ClashDisplay-Variable.woff2>; rel=preload; as=font; type=font/woff2; crossorigin
+server: cloudflare
+set-cookie: sd_gid=v2.12225.97NosDGx5VNhznlhCJFHqpF9AAvi4Ru5; Max-Age=34560000; Domain=.shortdrama.st; Path=/; Expires=Sun, 17 Oct 2027 05:15:43 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: sd_mt=v1.1789197343243.f.ur6r7D9CP32KqJg-9fszzCZLCvpwvPcl; Max-Age=7200; Domain=.shortdrama.st; Path=/; Expires=Sat, 12 Sep 2026 07:15:43 GMT; HttpOnly; Secure; SameSite=Lax
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+x-powered-by: Express
+server-timing: cfCacheStatus;desc="DYNAMIC"
+server-timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=199
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OsatGUkTBpj%2Bo1S5sc9oKTX%2F9fxohT6HwhkpPhFkz3D5S9gHyGhGqJidp%2Boa95Y%2Fj9wJRqaQRdZCUAVgniaNxpIGAkluc4hxzEkb2VspM1pxE9K22r83DxY1%2Bh3SvahD"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+content-encoding: br
+alt-svc: h3=":443"; ma=86400
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#000000" />
+<title>شاهد حلقة 1 من The Road Through Fire عبر الإنترنت مجانًا بدقة عالية — ShortDrama.st</title>
+<meta name="description" content="Former Marine Luke Carter takes a $50,000 job escorting heiress Charlotte Morgan across the deadly Mojave Desert to pay for his comatose sister&#x27;s care. Hunted by cartels, traffickers, and even Charlotte&#x27;s uncle, the bickering pair fight to survive and slowly fall for each other. When Charlotte is betrayed and kidnapped, Luke risks everything to save her—and finish the journey they started together. شاهد مجانًا بدقة عالية على ShortDrama.st." />
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+<meta name="application-name" content="ShortDrama.st" />
+<meta name="apple-mobile-web-app-title" content="ShortDrama" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="manifest" href="/ar/site.webmanifest" />
+<meta property="og:type" content="video.episode" />
+<meta property="og:site_name" content="ShortDrama.st" />
+<meta property="og:locale" content="ar_SA" />
+<meta property="og:title" content="شاهد حلقة 1 من The Road Through Fire عبر الإنترنت مجانًا بدقة عالية — ShortDrama.st" />
+<meta property="og:description" content="Former Marine Luke Carter takes a $50,000 job escorting heiress Charlotte Morgan across the deadly Mojave Desert to pay for his comatose sister&#x27;s care. Hunted by cartels, traffickers, and even Charlotte&#x27;s uncle, the bickering pair fight to survive and slowly fall for each other. When Charlotte is betrayed and kidnapped, Luke risks everything to save her—and finish the journey they started together. شاهد مجانًا بدقة عالية على ShortDrama.st." />
+<meta property="og:image" content="https://shortdrama.st/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t&#x3D;1787902937247" />
+<meta property="og:image:alt" content="The Road Through Fire — الحلقة 1" />
+<link rel="canonical" href="https://shortdrama.st/ar/series/the-road-through-fire/1" />
+<meta property="og:url" content="https://shortdrama.st/ar/series/the-road-through-fire/1" />
+
+<link rel="alternate" hreflang="en" href="https://shortdrama.st/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="zh-CN" href="https://shortdrama.st/zh/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="zh-HK" href="https://shortdrama.st/yue/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="hi" href="https://shortdrama.st/hi/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="es" href="https://shortdrama.st/es/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="ar" href="https://shortdrama.st/ar/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="fr" href="https://shortdrama.st/fr/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="bn" href="https://shortdrama.st/bn/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="pt" href="https://shortdrama.st/pt/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="ru" href="https://shortdrama.st/ru/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="ur" href="https://shortdrama.st/ur/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="id" href="https://shortdrama.st/id/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="de" href="https://shortdrama.st/de/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="ja" href="https://shortdrama.st/ja/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="mr" href="https://shortdrama.st/mr/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="te" href="https://shortdrama.st/te/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="tr" href="https://shortdrama.st/tr/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="ta" href="https://shortdrama.st/ta/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="vi" href="https://shortdrama.st/vi/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="ko" href="https://shortdrama.st/ko/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="it" href="https://shortdrama.st/it/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="th" href="https://shortdrama.st/th/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="fa" href="https://shortdrama.st/fa/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="he" href="https://shortdrama.st/he/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="pl" href="https://shortdrama.st/pl/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="nl" href="https://shortdrama.st/nl/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="uk" href="https://shortdrama.st/uk/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="ms" href="https://shortdrama.st/ms/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="tl" href="https://shortdrama.st/fil/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="sw" href="https://shortdrama.st/sw/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="az" href="https://shortdrama.st/az/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="ro" href="https://shortdrama.st/ro/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="cs" href="https://shortdrama.st/cs/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="bg" href="https://shortdrama.st/bg/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="nb" href="https://shortdrama.st/nb/series/the-road-through-fire/1" />
+<link rel="alternate" hreflang="x-default" href="https://shortdrama.st/series/the-road-through-fire/1" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="شاهد حلقة 1 من The Road Through Fire عبر الإنترنت مجانًا بدقة عالية — ShortDrama.st" />
+<meta name="twitter:description" content="Former Marine Luke Carter takes a $50,000 job escorting heiress Charlotte Morgan across the deadly Mojave Desert to pay for his comatose sister&#x27;s care. Hunted by cartels, traffickers, and even Charlotte&#x27;s uncle, the bickering pair fight to survive and slowly fall for each other. When Charlotte is betrayed and kidnapped, Luke risks everything to save her—and finish the journey they started together. شاهد مجانًا بدقة عالية على ShortDrama.st." />
+<meta name="twitter:image" content="https://shortdrama.st/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t&#x3D;1787902937247" />
+<meta name="twitter:image:alt" content="The Road Through Fire — الحلقة 1" />
+<link rel="stylesheet" href="/css/output.css?v&#x3D;1789048603113" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="/fonts/noto-arabic.woff2" />
+<link rel="stylesheet" href="/fonts/lang-arabic.css" />
+<link rel="preload" as="image" href="/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t&#x3D;1787902937247">
+<link rel="preload" as="fetch" href="/media-proxy/ext/hwztakavideo.dramaboxdb.com/fea7d6f4245b9736cae2be1d8c571b9a/6a94e952/76/0x9/09x9/099x5/09952000024/701548467_2/701548467.720p.narrowv3.mp4" crossorigin>
+<meta name="6a97888e-site-verification" content="03eda7164241dd3107909a62675c7ff3">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://shortdrama.st/#organization","name":"ShortDrama.st","alternateName":["ShortDrama","ShortDrama.st"],"url":"https://shortdrama.st","logo":{"@type":"ImageObject","url":"https://shortdrama.st/images/shortdrama_mark.png","width":144,"height":144,"caption":"ShortDrama.st logo"},"image":["https://shortdrama.st/images/shortdrama_mark.png","https://shortdrama.st/images/shortdrama_full_logo.png","https://shortdrama.st/images/shortdrama_long_text_logo.png","https://shortdrama.st/images/thumbnail_shortdrama.jpg"],"description":"Watch 1,066,000+ short drama series free in HD on ShortDrama.st. Stream ShortMax, NetShort, StarDust, DramaBox, ReelShort, DramaWave full episodes with subtitles. No subscription required.","foundingDate":"2026"},{"@type":"WebSite","@id":"https://shortdrama.st/#website","url":"https://shortdrama.st","name":"ShortDrama.st","alternateName":["ShortDrama","ShortDrama.st"],"description":"Watch 1,066,000+ short drama series free in HD on ShortDrama.st. Stream ShortMax, NetShort, StarDust, DramaBox, ReelShort, DramaWave full episodes with subtitles. No subscription required.","inLanguage":"ar","publisher":{"@id":"https://shortdrama.st/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://shortdrama.st/browse?q={search_term_string}"},"query-input":"required name=search_term_string"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://shortdrama.st/ar/home"},{"@type":"ListItem","position":2,"name":"مسلسلات","item":"https://shortdrama.st/ar/browse"},{"@type":"ListItem","position":3,"name":"The Road Through Fire","item":"https://shortdrama.st/ar/series/the-road-through-fire"},{"@type":"ListItem","position":4,"name":"الحلقة 1"}]},{"@type":"TVSeries","@id":"https://shortdrama.st/ar/series/the-road-through-fire#tvseries","name":"The Road Through Fire","url":"https://shortdrama.st/ar/series/the-road-through-fire","inLanguage":"ar","description":"Former Marine Luke Carter takes a $50,000 job escorting heiress Charlotte Morgan across the deadly Mojave Desert to pay for his comatose sister's care. Hunted by cartels, traffickers, and even Charlotte's uncle, the bickering pair fight to survive and slowly fall for each other. When Charlotte is betrayed and kidnapped, Luke risks everything to save her—and finish the journey they started together.","image":"https://shortdrama.st/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t=1787902937247","genre":"Tough Guy","numberOfEpisodes":50},{"@type":"TVEpisode","@id":"https://shortdrama.st/ar/series/the-road-through-fire/1#episode","name":"The Road Through Fire — الحلقة 1","description":"Former Marine Luke Carter takes a $50,000 job escorting heiress Charlotte Morgan across the deadly Mojave Desert to pay for his comatose sister's care. Hunted by cartels, traffickers, and even Charlotte's uncle, the bickering pair fight to survive and slowly fall for each other. When Charlotte is betrayed and kidnapped, Luke risks everything to save her—and finish the journey they started together. شاهد مجانًا بدقة عالية على ShortDrama.st.","url":"https://shortdrama.st/ar/series/the-road-through-fire/1","episodeNumber":1,"partOfSeries":{"@id":"https://shortdrama.st/ar/series/the-road-through-fire#tvseries"},"inLanguage":"ar","video":{"@type":"VideoObject","@id":"https://shortdrama.st/ar/series/the-road-through-fire/1#video","name":"The Road Through Fire — الحلقة 1","description":"Former Marine Luke Carter takes a $50,000 job escorting heiress Charlotte Morgan across the deadly Mojave Desert to pay for his comatose sister's care. Hunted by cartels, traffickers, and even Charlotte's uncle, the bickering pair fight to survive and slowly fall for each other. When Charlotte is betrayed and kidnapped, Luke risks everything to save her—and finish the journey they started together. شاهد مجانًا بدقة عالية على ShortDrama.st.","thumbnailUrl":"https://shortdrama.st/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t=1787902937247","embedUrl":"https://shortdrama.st/ar/series/the-road-through-fire/1","inLanguage":"ar","uploadDate":"2026-09-04T17:35:47.000Z"},"interactionStatistic":{"@type":"InteractionCounter","interactionType":{"@type":"WatchAction"},"userInteractionCount":93}}]}</script>
+</head>
+<body class="text-gray-200 font-sans" data-lang="ar" data-dir="rtl" data-lang-prefix="/ar" data-rum-rate="0.25" data-guest="1">
+<script>(function(){var W=window,D=document,_04dc28f650e4=(W["__vpx"]=W["__vpx"]||{});if(_04dc28f650e4.cfg)return;var C=_04dc28f650e4.cfg={"p":["https://airconditionstrodefist.com/52ce23866f57655c7387e64847e14ce4/invoke.js"],"d":[1400,2800,4500,7000],"b":"/__a/e","h":"<div style=\"all:initial;position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(8,10,16,0.94);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);padding:20px;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif\"><div style=\"all:initial;font-family:inherit;display:block;background:linear-gradient(135deg,#15171e 0%,#1b1f2b 100%);border:1px solid rgba(229,8,74,0.35);border-radius:20px;padding:34px 28px;max-width:480px;width:100%;box-sizing:border-box;text-align:center;box-shadow:0 24px 60px rgba(0,0,0,.5)\"><img src=\"data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20120%20120%22%20width%3D%22120%22%20height%3D%22120%22%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%2260%22%20r%3D%2252%22%20fill%3D%22none%22%20stroke%3D%22%23E5084A%22%20stroke-width%3D%228%22%20opacity%3D%220.95%22%2F%3E%3Cline%20x1%3D%2228%22%20y1%3D%2228%22%20x2%3D%2292%22%20y2%3D%2292%22%20stroke%3D%22%23E5084A%22%20stroke-width%3D%228%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%2260%22%20r%3D%2230%22%20fill%3D%22%23E5084A%22%20opacity%3D%220.12%22%2F%3E%3C%2Fsvg%3E\" alt=\"\" style=\"all:initial;display:block;width:120px;height:120px;object-fit:contain;margin:0 auto 18px;border-radius:18px;background:#ffffff;padding:10px;box-shadow:0 6px 18px rgba(0,0,0,.35);box-sizing:border-box\" onerror=\"this.style.display=&#39;none&#39;\"/><h2 style=\"all:initial;font-family:inherit;display:block;font-size:21px;font-weight:800;color:#ffffff;margin:0 0 14px;line-height:1.3\">Please disable your ad blocker</h2><p style=\"all:initial;font-family:inherit;display:block;font-size:14px;color:#aab2c0;line-height:1.65;margin:0 0 24px\">Ads are the only thing keeping ShortDrama free to watch. Please turn off your ad blocker (or DNS / privacy filter) for this site and reload to keep watching.</p><button onclick=\"location.reload()\" style=\"all:initial;font-family:inherit;display:inline-block;cursor:pointer;background:#E5084A;color:#ffffff;font-size:15px;font-weight:700;padding:13px 28px;border-radius:13px\">I&#39;ve disabled it — reload</button><p style=\"all:initial;font-family:inherit;display:block;font-size:11px;color:#5b6472;margin:18px 0 0\">Thanks for supporting ShortDrama.</p></div></div>","nt":3,"bm":"data-x","ns":"__vpx","rw":1800000};_04dc28f650e4.sig={net:0,ok:0,bait:0,beh:0};_04dc28f650e4.walled=false;function _30d627c75c58(u){try{var s=D.createElement("script");s.src=u+(u.indexOf("?")>-1?"&":"?")+"_="+(+new Date());s.async=true;s.onerror=function(){_04dc28f650e4.sig.net++;};s.onload=function(){_04dc28f650e4.sig.ok++;if(s.parentNode)s.parentNode.removeChild(s);};(D.head||D.documentElement).appendChild(s);}catch(e){}}for(var i=0;i<C.p.length;i++)_30d627c75c58(C.p[i]);try{var t0=(W.performance&&performance.now)?performance.now():+new Date();fetch(C.p[0],{method:"GET",mode:"no-cors",cache:"no-store"}).then(function(){var dt=((W.performance&&performance.now)?performance.now():+new Date())-t0;if(dt<6)_04dc28f650e4.sig.net++;}).catch(function(){_04dc28f650e4.sig.net++;});}catch(e){}function _63664b952665(){try{var els=D.querySelectorAll("["+C.bm+"],.adsbox,ins.adsbygoogle");for(var i=0;i<els.length;i++){var e=els[i];if(!D.documentElement.contains(e))continue;var cs=W.getComputedStyle(e);if(cs.display==="none"||cs.visibility==="hidden"||(e.offsetHeight===0&&e.clientHeight===0)){_04dc28f650e4.sig.bait++;return;}}}catch(e){}}function _64c6815ae064(t){return D.createElement(t);}function _63eb19355251(){if(_04dc28f650e4.walled)return;_04dc28f650e4.walled=true;try{var R=D.documentElement;if(D.body){var f=D.createDocumentFragment();while(D.body.firstChild)f.appendChild(D.body.firstChild);_04dc28f650e4._g=f;}var host=_64c6815ae064("div");host.setAttribute("style","all:initial!important;position:fixed!important;inset:0!important;z-index:2147483647!important");var id="_cdb2d56af428";host.id=id;R.appendChild(host);var sh=host.attachShadow?host.attachShadow({mode:"closed"}):host;sh.innerHTML=C.h;R.style.setProperty("overflow","hidden","important");if(D.body){D.body.style.setProperty("overflow","hidden","important");}var rg=function(){if(!D.getElementById(id)){id="_"+(+new Date()).toString(36)+Math.floor(Math.random()*1e6).toString(36);host.id=id;R.appendChild(host);}R.style.setProperty("overflow","hidden","important");};try{var ob=new MutationObserver(rg);ob.observe(R,{childList:true,subtree:true});}catch(e){}setInterval(rg,700);if(C.b){try{navigator.sendBeacon&&navigator.sendBeacon(C.b+"?e=d");}catch(e){}}}catch(e){}}_04dc28f650e4.wall=_63eb19355251;function _a1bf730f2c55(){var s=_04dc28f650e4.sig;return (s.net>=C.nt)||(s.net>=1&&s.bait>=1)||(s.bait>=2);}function _dd8810cd465c(){if(C.b&&!_04dc28f650e4.rc){_04dc28f650e4.rc=true;try{navigator.sendBeacon&&navigator.sendBeacon(C.b+"?e=c");}catch(e){}}_63664b952665();if(_04dc28f650e4.walled)return;if(_a1bf730f2c55())_63eb19355251();}for(var d=0;d<C.d.length;d++)setTimeout(_dd8810cd465c,C.d[d]);var RK="__vpx_r",rmx=0,rj;for(rj=0;rj<C.d.length;rj++){if(C.d[rj]>rmx)rmx=C.d[rj];}var riv=setInterval(function(){if(_04dc28f650e4.walled){try{localStorage.setItem(RK,""+(+new Date()));}catch(e){}clearInterval(riv);}},500);setTimeout(function(){try{clearInterval(riv);if(_04dc28f650e4.walled){localStorage.setItem(RK,""+(+new Date()));return;}var rt=parseInt(localStorage.getItem(RK),10)||0;if(rt&&(+new Date()-rt)<C.rw){if(C.b){try{navigator.sendBeacon&&navigator.sendBeacon(C.b+"?e=r");}catch(e){}}localStorage.removeItem(RK);}else if(rt){localStorage.removeItem(RK);}}catch(e){}},rmx+1200);})();</script>
+<script type="application/json" id="feed-boot">{"progressive":true,"series":{"slug":"the-road-through-fire","title":"The Road Through Fire","total":50,"platform":"DramaBox","platformAsset":"/assets/platforms/dramabox.png"},"pos":1,"freeMax":10,"firstLocked":11,"window":[{"pos":1,"id":1000004969112,"title":"EP 1","locked":false,"canUnlock":false,"streamUrl":"/media-proxy/ext/hwztakavideo.dramaboxdb.com/fea7d6f4245b9736cae2be1d8c571b9a/6a94e952/76/0x9/09x9/099x5/09952000024/701548467_2/701548467.720p.narrowv3.mp4","thumb":"/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t=1787902937247","hearts":0,"saves":0,"hearted":false,"saved":false},{"pos":2,"id":1000004969113,"title":"EP 2","locked":false,"canUnlock":false,"streamUrl":"/media-proxy/ext/hwztakavideo.dramaboxdb.com/71513a37e92327b9b57d5ba9df225c70/6a94e953/86/0x9/09x9/099x5/09952000024/701548468_1/701548468.720p.narrowv3.mp4","thumb":"/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t=1787902937247","hearts":0,"saves":0,"hearted":false,"saved":false}],"coin":{"enabled":true,"balance":0,"cost":100,"reward":100},"vastTag":"https://www.videosprofitnetwork.com/watch.xml?key=3eb279a4ee8c32dd462b0a4c331fcb79","nativeAd":null,"directLink":"https://airconditionstrodefist.com/rqqifkmk?key=00954f3e3eff3de247688e07dc6b2e74","directLinkCooldownMin":0,"directLinkMaxDay":0,"adSlide":null,"human":true}</script>
+<div data-feed class="feed-root" data-slug="the-road-through-fire" data-boot-pos="1">
+<div data-feed-scroller class="feed-scroller" aria-label="قائمة الحلقات">
+<section class="feed-slide" data-slide></section>
+<section class="feed-slide" data-slide></section>
+<section class="feed-slide" data-slide></section>
+</div>
+<div data-feed-boot class="feed-boot" aria-hidden="true">
+<img class="feed-boot-poster" src="/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t&#x3D;1787902937247" alt="" decoding="async" fetchpriority="high">
+<div class="sd-boot-pulse"><img src="/images/shortdrama_mark.png" width="56" height="56" alt=""></div>
+</div>
+<div data-feed-coach class="feed-coach" hidden aria-hidden="true">
+<span class="feed-coach-stage">
+<span class="feed-coach-mark sd-swipe-coach">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"
+stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+<path d="M10 9.5V4a2 2 0 0 1 4 0v8" />
+<path d="M14 8.5a2 2 0 0 1 4 0V12" />
+<path d="M18 10.5a2 2 0 0 1 4 0V15a7 7 0 0 1-7 7h-1.5a7 7 0 0 1-4.95-2.05l-4.4-4.4a2 2 0 0 1 2.83-2.83L10 15.5" />
+</svg>
+</span>
+</span>
+<span class="feed-coach-label">اسحب للأعلى للحلقة التالية</span>
+</div>
+<div data-feed-top class="feed-top feed-chrome-hidden">
+<a href="/ar/home" data-feed-back aria-label="رجوع"
+class="w-10 h-10 flex-shrink-0 flex items-center justify-center rounded-full bg-black/50 backdrop-blur-md text-white active-press">
+<svg class="w-5 h-5 rtl:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+</a>
+<div class="min-w-0">
+<div data-feed-series-title class="text-white font-display font-black text-[15px] leading-tight truncate">The Road Through Fire</div>
+<div data-feed-ep-label class="text-[11px] text-gray-300 font-semibold"></div>
+</div>
+</div>
+<div data-feed-rail class="feed-rail feed-chrome-hidden">
+<button type="button" data-feed-mute class="feed-rail-btn" aria-label="الصوت">
+<svg class="pp-on" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M17 9a5 5 0 0 1 0 6"/><path d="M20 6a9 9 0 0 1 0 12"/></svg>
+<svg class="pp-off" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M22 9l-6 6M16 9l6 6"/></svg>
+<span data-feed-mute-label class="feed-rail-num"></span>
+</button>
+<button type="button" data-feed-save class="feed-rail-btn" aria-label="حفظ">
+<svg data-feed-save-icon fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 3H7a2 2 0 0 0-2 2v16l7-4 7 4V5a2 2 0 0 0-2-2z"/></svg>
+<span data-feed-save-count class="feed-rail-num"></span>
+</button>
+<button type="button" data-feed-heart class="feed-rail-btn" aria-label="أعجبني">
+<svg data-feed-heart-icon fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21 8.6c0 5.4-7.5 10-9 10s-9-4.6-9-10A4.9 4.9 0 0 1 8 3.7c1.6 0 3.1.8 4 2a4.9 4.9 0 0 1 9 2.9z"/></svg>
+<span data-feed-heart-count class="feed-rail-num"></span>
+</button>
+<button type="button" data-feed-coins class="feed-rail-btn" aria-label="قطع نقدية">
+<span class="relative inline-flex">
+<span data-coin-dot class="sd-claim-dot" aria-hidden="true"></span>
+<img src="/images/coins/coin-64.webp" alt="" aria-hidden="true" class="coin-bob" />
+</span>
+<span data-feed-coin-balance class="feed-rail-num text-amber-300">0</span>
+</button>
+<button type="button" data-feed-share class="feed-rail-btn" aria-label="مشاركة">
+<svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v13m0-13 4 4m-4-4-4 4M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>
+<span class="feed-rail-num">مشاركة</span>
+</button>
+</div>
+<button type="button" data-feed-playlist-btn class="feed-bottom feed-chrome-hidden active-press">
+<span data-feed-bottom-label class="font-bold text-white text-sm"></span>
+<svg class="w-4 h-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="m5 15 7-7 7 7"/></svg>
+</button>
+<div data-feed-sheet class="feed-sheet" hidden>
+<div data-feed-sheet-backdrop class="absolute inset-0 bg-black/70"></div>
+<div data-feed-sheet-panel class="feed-sheet-panel">
+<div class="sheet-handle" aria-hidden="true"></div>
+<div class="flex items-center justify-between mb-3 px-1">
+<h2 data-feed-series-title class="sheet-title font-display text-base truncate">The Road Through Fire</h2>
+<button type="button" data-feed-sheet-close aria-label="إغلاق"
+class="sheet-close w-9 h-9 flex items-center justify-center rounded-full active-press transition-colors">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>
+</button>
+</div>
+<div data-feed-sheet-grid class="grid grid-cols-5 gap-2 overflow-y-auto pb-6" style="max-height:55vh"></div>
+</div>
+</div>
+<div data-coinsheet class="feed-sheet" role="dialog" aria-modal="true" aria-labelledby="coinsheet-title" hidden>
+<div data-coinsheet-backdrop class="absolute inset-0 bg-black/70"></div>
+<div class="feed-sheet-panel">
+<div class="sheet-handle" aria-hidden="true"></div>
+<div class="flex items-center justify-between mb-1 px-1">
+<h2 id="coinsheet-title" class="sheet-title font-display text-base">قطعك النقدية</h2>
+<button type="button" data-coinsheet-close aria-label="إغلاق"
+class="sheet-close w-9 h-9 flex items-center justify-center rounded-full active-press transition-colors">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>
+</button>
+</div>
+<div data-coinsheet-body class="pb-6"></div>
+</div>
+</div><div data-feed-tip class="feed-tip" hidden></div>
+</div><div data-share-modal
+data-series-slug="the-road-through-fire"
+data-series-title="The Road Through Fire"
+data-series-cover="/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t&#x3D;1787902937247"
+data-current-ep="1"
+data-current-thumb="/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t&#x3D;1787902937247"
+class="hidden fixed inset-0 z-50 items-center justify-center p-4"
+role="dialog"
+aria-modal="true"
+aria-labelledby="share-modal-title">
+<div data-share-backdrop class="absolute inset-0 bg-black/75 backdrop-blur-sm"></div>
+<div class="relative bg-panel border border-white/10 rounded-2xl shadow-2xl w-full max-w-sm max-h-[90vh] overflow-y-auto">
+<button type="button" data-share-close aria-label="إغلاق"
+class="absolute top-3 end-3 w-9 h-9 flex items-center justify-center rounded-full text-gray-400 hover:text-white hover:bg-white/10 transition-colors active-press z-10">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>
+</button>
+<div class="p-5">
+<div data-binge-headline class="hidden mb-4 pe-8">
+<h3 id="share-modal-title" class="text-lg font-bold text-white">لقد أدمنت.</h3>
+<p class="text-sm text-gray-400 mt-0.5">أخبر صديقًا عنه.</p>
+</div>
+<div data-default-headline class="mb-4 pe-8">
+<h3 class="text-lg font-bold text-white">مشاركة</h3>
+<p class="text-sm text-gray-400 mt-0.5">إرسال هذه الحلقة لصديق.</p>
+</div>
+<div class="flex items-center gap-3 bg-black/30 border border-white/5 rounded-xl p-2.5 mb-4">
+<div class="relative w-12 h-16 flex-shrink-0 bg-black overflow-hidden rounded-md ring-1 ring-white/10">
+<img data-share-preview-img src="/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t&#x3D;1787902937247" alt="" class="absolute inset-0 w-full h-full object-cover" />
+</div>
+<div class="flex-1 min-w-0">
+<div class="text-sm font-semibold text-white line-clamp-1">The Road Through Fire</div>
+<div data-share-preview-sub class="text-xs text-gray-400 mt-0.5">الحلقة 1</div>
+</div>
+</div>
+<div class="flex gap-2 mb-5">
+<button type="button" data-share-native
+class="hidden flex-1 inline-flex items-center justify-center gap-2 bg-white hover:bg-gray-100 text-black text-sm font-semibold px-3 py-3 rounded-xl transition-colors active-press">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 12v7a2 2 0 002 2h12a2 2 0 002-2v-7M16 6l-4-4m0 0L8 6m4-4v13"/></svg>
+مشاركة
+</button>
+<button type="button" data-share-copy
+class="flex-1 inline-flex items-center justify-center gap-2 bg-white/5 hover:bg-white/10 text-white px-3 py-3 rounded-xl transition-colors active-press border border-white/10">
+<svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"/></svg>
+<span data-share-copy-label class="text-sm font-semibold">نسخ الرابط</span>
+</button>
+</div>
+<label class="block mb-5">
+<span class="text-[10px] uppercase tracking-[0.15em] text-gray-500 font-bold">أو انسخه بنفسك</span>
+<input type="text" readonly data-share-url-field value="https://shortdrama.st/ar/series/the-road-through-fire/1"
+onclick="this.select()"
+class="mt-1.5 w-full bg-black/40 border border-white/10 rounded-lg px-3 py-2.5 text-xs text-gray-300 font-mono" />
+</label>
+<div class="grid grid-cols-6 gap-1">
+<button type="button" data-share-target="whatsapp"
+class="flex flex-col items-center gap-1.5 active-press py-1"
+aria-label="مشاركة على WhatsApp">
+<span class="w-11 h-11 rounded-full flex items-center justify-center text-white" style="background-color:#25D366;">
+<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/></svg>
+</span>
+<span class="text-[10px] text-gray-400 leading-tight">WhatsApp</span>
+</button>
+<button type="button" data-share-target="x"
+class="flex flex-col items-center gap-1.5 active-press py-1"
+aria-label="مشاركة على X">
+<span class="w-11 h-11 rounded-full flex items-center justify-center bg-black border border-white/15 text-white">
+<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+</span>
+<span class="text-[10px] text-gray-400 leading-tight">X</span>
+</button>
+<button type="button" data-share-target="facebook"
+class="flex flex-col items-center gap-1.5 active-press py-1"
+aria-label="مشاركة على Facebook">
+<span class="w-11 h-11 rounded-full flex items-center justify-center text-white" style="background-color:#1877F2;">
+<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073"/></svg>
+</span>
+<span class="text-[10px] text-gray-400 leading-tight">Facebook</span>
+</button>
+<button type="button" data-share-target="telegram"
+class="flex flex-col items-center gap-1.5 active-press py-1"
+aria-label="مشاركة على Telegram">
+<span class="w-11 h-11 rounded-full flex items-center justify-center text-white" style="background-color:#229ED9;">
+<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212-.07-.062-.174-.041-.249-.024-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg>
+</span>
+<span class="text-[10px] text-gray-400 leading-tight">Telegram</span>
+</button>
+<button type="button" data-share-target="reddit"
+class="flex flex-col items-center gap-1.5 active-press py-1"
+aria-label="مشاركة على Reddit">
+<span class="w-11 h-11 rounded-full flex items-center justify-center text-white" style="background-color:#FF4500;">
+<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/></svg>
+</span>
+<span class="text-[10px] text-gray-400 leading-tight">Reddit</span>
+</button>
+<button type="button" data-share-more
+class="hidden flex flex-col items-center gap-1.5 active-press py-1"
+aria-label="المزيد من خيارات المشاركة">
+<span class="w-11 h-11 rounded-full flex items-center justify-center bg-white/10 hover:bg-white/15 text-white transition-colors">
+<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>
+</span>
+<span class="text-[10px] text-gray-400 leading-tight">المزيد</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div id="_f8b17d40535e" class="ad-banner adsbox ad-placement textad banner-ad ad_wrapper ad-text pub_300x250 adsbygoogle" style="position:absolute;left:-9999px;top:-9999px;height:8px;width:8px;overflow:hidden;pointer-events:none" aria-hidden="true" data-x="_f8b17d40535e">&nbsp;</div><ins class="adsbygoogle" style="position:absolute;left:-9999px;top:-9999px;height:8px;width:8px;display:block" aria-hidden="true"></ins>
+
+<script>
+window.__I18N = window.__I18N || {};
+window.__LANG = "ar" || 'en';
+window.__BRAND = { brand: "ShortDrama", brandFull: "ShortDrama.st", brandOrigin: "https://shortdrama.st", brandHost: "shortdrama.st", brandSuffix: ".st", brandMark: "/images/shortdrama_mark.png", storagePrefix: "shortdrama", legacyStoragePrefix: "shortdrama", contactEmail: "contact@shortdrama.st", hashtags: ["#ShortDrama","#ShortDramas"] };
+// localStorage/sessionStorage key names are brand-prefixed. legacy=true reads the
+// prefix older visitors' data was written under (brand.legacyStoragePrefix) so a
+// rename never orphans their history; new keys always use storagePrefix.
+window.sdKey = function (name, legacy) {
+var b = window.__BRAND || {};
+var p = (legacy && b.legacyStoragePrefix) || b.storagePrefix || 'sd';
+return p + ':' + name;
+};
+window.__t = function (key, params) {
+var entry = window.__I18N[key];
+var s = typeof entry === 'string' && entry ? entry : null;
+if (entry && typeof entry === 'object' && params && params.count != null) {
+try {
+var cat = new Intl.PluralRules(window.__LANG).select(Number(params.count) || 0);
+s = entry[cat] || entry.other || null;
+} catch (e) { s = entry.other || null; }
+}
+s = s || key;
+// Brand placeholders ({brand}, {brandFull}, {brandOrigin}) resolve without
+// the caller passing them — mirrors src/i18n.js BRAND_PARAMS (docs/brand-pack.md).
+var p = params ? Object.assign({}, window.__BRAND, params) : window.__BRAND;
+s = s.replace(/\{(\w+)\}/g, function (m, n) { return p[n] == null ? m : String(p[n]); });
+return s;
+};
+// Locale-prefixed URLs for JS-built links. Server HTML gets its hrefs
+// rewritten after render (server.js localizeInternalLinks); client-built
+// links did not, so an /es/ viewer's card clicks were bare → 302 → prefixed.
+// Read the prefix from <body data-lang-prefix> at CALL time: Turbo swaps the
+// body on a locale switch while this head-time value would go stale.
+window.__PREFIX = "/ar" || '';
+// Poster image lane — client twin of the posterSrc/posterSrcset helpers
+// (src/img-lane.js, docs/images.md). JS-built cards call sdPosterAttrs(cover)
+// and get ` src="…" srcset="…" sizes="…"` (escaped). Lane off → plain src.
+window.__IMG_LANE = {"on":true,"proxy":"/media-proxy/","lane":"/media-proxy/img/","ladder":[160,240,320,480],"defaultW":240,"sizes":{"card":"auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px","wide":"auto, (max-width: 640px) 48vw, (max-width: 1024px) 25vw, 240px","thumb":"auto, 96px"}};
+window.sdImg = function (url, w, v) {
+var L = window.__IMG_LANE;
+if (!L || !L.on || typeof url !== 'string' || url.indexOf(L.proxy) !== 0 || url.indexOf(L.lane) === 0) return url || '';
+var rel = url.slice(L.proxy.length);
+return L.lane + rel + (rel.indexOf('?') === -1 ? '?' : '&') + 'w=' + (w || L.defaultW) + '&f=auto' + (v ? '&v=' + v : '');
+};
+window.sdPosterAttrs = function (url, kind, v) {
+var L = window.__IMG_LANE, esc = function (s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;'); };
+if (!L || !L.on || typeof url !== 'string' || url.indexOf(L.proxy) !== 0) return ' src="' + esc(url) + '"';
+var set = L.ladder.map(function (w) { return window.sdImg(url, w, v) + ' ' + w + 'w'; }).join(', ');
+return ' src="' + esc(window.sdImg(url, L.defaultW, v)) + '" srcset="' + esc(set) + '" sizes="' + esc(L.sizes[kind || 'card'] || L.sizes.card) + '"';
+};
+window.sdUrl = function (path) {
+var b = document.body, pre = b && b.dataset && b.dataset.langPrefix != null ? b.dataset.langPrefix : (window.__PREFIX || '');
+return pre + path;
+};
+// In-shell navigation: Turbo when present (keeps the app shell), else location.
+window.sdVisit = function (url, opts) {
+opts = opts || {};
+if (window.Turbo && window.Turbo.visit) return window.Turbo.visit(url, opts.replace ? { action: 'replace' } : undefined);
+if (opts.replace) location.replace(url); else location.assign(url);
+};
+// UI back that can only land on our own pages. The browser's back stack may
+// hold foreign entries — a popunder Direct Link that fell through to a
+// same-tab navigation (APK WebView, popup-blocked mobiles), or the Google
+// result that deep-linked here — and there is NO API to see where
+// history.back() would land, so the back arrows must never traverse it
+// blind. Instead every pageview is recorded in a per-tab trail and
+// sdBack() walks THAT: previous trail URL, else the caller's fallback.
+// Recording is idempotent breadcrumb-style: re-seeing a URL rewinds the
+// trail to it, which absorbs Turbo restoration visits, double-records, and
+// revisits (Home→A→Home→B backs to Home, not A). Identity is the URL the
+// page was RECORDED under (__SD_NAV_SELF), so in-page replaceState churn
+// (feed episode position, profile tab hashes, admin filters) never
+// misaligns the walk. Overlay pops (sheets, search modal, lightbox) keep
+// their own history.back() — they pop entries they pushed themselves.
+(function () {
+var KEY = 'sd_nav_trail';
+function loadTrail() {
+try { var t = JSON.parse(sessionStorage.getItem(KEY) || '[]'); return Array.isArray(t) ? t : []; }
+catch (_) { return []; }
+}
+function saveTrail(t) { try { sessionStorage.setItem(KEY, JSON.stringify(t.slice(-40))); } catch (_) { } }
+function here() { return location.pathname + location.search; }
+function record() {
+var u = here(), t = loadTrail(), i = t.lastIndexOf(u);
+if (i !== -1) t.length = i + 1; else t.push(u);
+saveTrail(t);
+window.__SD_NAV_SELF = u;
+}
+window.sdBack = function (fallback) {
+var t = loadTrail(), self = window.__SD_NAV_SELF || here(), i = t.lastIndexOf(self);
+if (i !== -1) { t.length = i; saveTrail(t); } // drop self: a fallback landing must not ping-pong back
+var prev = t.length ? t[t.length - 1] : null;
+window.sdVisit(prev || fallback || window.sdUrl('/home'));
+};
+record();
+if (!window.__SD_NAV_BOUND) { // shim re-runs per Turbo body swap; bind once
+window.__SD_NAV_BOUND = 1;
+// turbo:load covers every shell visit INCLUDING restorations (which do
+// not re-execute body scripts); the inline record() above covers full
+// loads and the no-Turbo feed layout. Re-records dedupe via the rewind.
+document.addEventListener('turbo:load', record);
+}
+})();
+</script>
+<script defer src="/i18n/ar.js?v&#x3D;1789048603101"></script><script defer src="/js/popunder.js?v&#x3D;1789048603050"></script>
+<script defer src="/js/sheet.js?v&#x3D;1789048603051"></script>
+<script defer src="/js/sd-media.js?v&#x3D;1789048603052"></script>
+<script defer src="/js/vendor/web-vitals.attribution.iife.js?v&#x3D;1789048603062"></script>
+<script defer src="/js/sd-rum.js?v&#x3D;1789048603053"></script>
+<script defer src="/js/sd-history.js?v&#x3D;1789048603050"></script>
+<script defer src="/js/sd-ambience.js?v&#x3D;1789048603052"></script>
+<script defer src="/js/sd-coinsheet.js?v&#x3D;1789048603049"></script>
+<script defer src="/js/feed-gestures.js?v&#x3D;1789048603047"></script>
+<script defer src="/js/sd-nudges.js?v&#x3D;1789048603053"></script>
+<script defer src="/js/vendor/hls.light.min.js?v=1789048603061"></script><script defer src="/js/vast-player.js?v=1789048603052"></script>
+<script defer src="/js/feed.js?v&#x3D;1789048603048"></script>
+<script type="text/javascript">
+var sc_project=13247469;
+var sc_invisible=1;
+var sc_security="d3278c4b";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<div data-lang-sheet class="fixed inset-0 z-[70]" hidden>
+<div data-lang-sheet-backdrop class="absolute inset-0 bg-black/60"></div>
+<div class="sheet-light" role="dialog" aria-modal="true" aria-labelledby="lang-sheet-title" style="position:absolute; padding-bottom:max(16px,env(safe-area-inset-bottom))">
+<div data-lang-drag class="lang-grip">
+<div class="sheet-handle" aria-hidden="true"></div>
+<div class="flex items-center justify-center relative mb-2 px-1">
+<h2 id="lang-sheet-title" class="sheet-title font-display text-xl">اللغة</h2>
+<button type="button" data-lang-sheet-close aria-label="إغلاق"
+class="sheet-close absolute end-0 w-9 h-9 flex items-center justify-center rounded-full active-press transition-colors">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.4"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>
+</button>
+</div>
+</div>
+<div class="lang-list overflow-y-auto">
+<a href="/set-lang/en?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">English</span>
+</a>
+<a href="/set-lang/zh?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">中文</span>
+</a>
+<a href="/set-lang/yue?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">粵語</span>
+</a>
+<a href="/set-lang/hi?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">हिन्दी</span>
+</a>
+<a href="/set-lang/es?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Español</span>
+</a>
+<a href="/set-lang/ar?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press bg-accent/10">
+<span class="text-[19px] text-accent font-black" >العربية</span>
+<span class="w-6 h-6 rounded-full bg-accent text-white flex items-center justify-center flex-shrink-0">
+<svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3"><path stroke-linecap="round" stroke-linejoin="round" d="m5 13 4 4L19 7"/></svg>
+</span>
+</a>
+<a href="/set-lang/fr?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Français</span>
+</a>
+<a href="/set-lang/bn?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">বাংলা</span>
+</a>
+<a href="/set-lang/pt?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Português</span>
+</a>
+<a href="/set-lang/ru?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Русский</span>
+</a>
+<a href="/set-lang/ur?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">اردو</span>
+</a>
+<a href="/set-lang/id?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Bahasa Indonesia</span>
+</a>
+<a href="/set-lang/de?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Deutsch</span>
+</a>
+<a href="/set-lang/ja?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">日本語</span>
+</a>
+<a href="/set-lang/mr?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">मराठी</span>
+</a>
+<a href="/set-lang/te?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">తెలుగు</span>
+</a>
+<a href="/set-lang/tr?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Türkçe</span>
+</a>
+<a href="/set-lang/ta?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">தமிழ்</span>
+</a>
+<a href="/set-lang/vi?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Tiếng Việt</span>
+</a>
+<a href="/set-lang/ko?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">한국어</span>
+</a>
+<a href="/set-lang/it?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Italiano</span>
+</a>
+<a href="/set-lang/th?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">ไทย</span>
+</a>
+<a href="/set-lang/fa?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">فارسی</span>
+</a>
+<a href="/set-lang/he?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">עברית</span>
+</a>
+<a href="/set-lang/pl?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Polski</span>
+</a>
+<a href="/set-lang/nl?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Nederlands</span>
+</a>
+<a href="/set-lang/uk?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Українська</span>
+</a>
+<a href="/set-lang/ms?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Bahasa Melayu</span>
+</a>
+<a href="/set-lang/fil?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Filipino</span>
+</a>
+<a href="/set-lang/sw?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Kiswahili</span>
+</a>
+<a href="/set-lang/az?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Azərbaycanca</span>
+</a>
+<a href="/set-lang/ro?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Română</span>
+</a>
+<a href="/set-lang/cs?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Čeština</span>
+</a>
+<a href="/set-lang/bg?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Български</span>
+</a>
+<a href="/set-lang/nb?back=%2Fseries%2Fthe-road-through-fire%2F1" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Norsk bokmål</span>
+</a>
+</div>
+</div>
+</div>
+<script>
+(function () {
+// Document-level listener + __SD_ONCE: survives Turbo body swaps without
+// stacking duplicates (the sheet element itself is replaced per render).
+if (!document.querySelector('[data-lang-sheet]')) return;
+window.__SD_ONCE = window.__SD_ONCE || {};
+if (window.__SD_ONCE.langSheet) return;
+window.__SD_ONCE.langSheet = 1;
+function panel() { var s = document.querySelector('[data-lang-sheet]'); return s && s.querySelector('.sheet-light'); }
+// Shared dialog contract (public/js/sheet.js): one history entry so the
+// phone's Back closes the sheet instead of leaving the page, focus into the
+// list and back to the opener, Esc, role=dialog. Guarded — sheet.js loads on
+// every layout that renders this partial, but the sheet must still open if
+// it ever doesn't.
+var dlg = null;
+function hide() {
+var s = document.querySelector('[data-lang-sheet]');
+if (!s) return;
+s.hidden = true;
+var p = s.querySelector('.sheet-light');
+if (p) { p.classList.remove('is-dragging', 'is-settling', 'is-expanded'); p.style.transform = ''; }
+}
+function close() {
+if (dlg) { var d = dlg; dlg = null; d.release(); }
+hide();
+}
+// A row tapped = a Turbo visit with the sheet open. The dialog handle
+// disposes itself on this event, but this closure outlives the body swap
+// (__SD_ONCE), so the spent handle must be dropped or the next open would
+// never get a fresh one (no Back-closes after the first switch); and the
+// sheet must be hidden BEFORE Turbo snapshots the body, or a later Back
+// restores the page with the sheet still open. Document-level, registered
+// once with the rest.
+document.addEventListener('turbo:before-cache', function () { dlg = null; hide(); });
+document.addEventListener('click', function (e) {
+if (e.target.closest && e.target.closest('[data-open-lang-sheet]')) {
+var s = document.querySelector('[data-lang-sheet]');
+if (s) {
+s.hidden = false;
+if (window.SDSheet && window.SDSheet.dialog && !dlg) {
+dlg = window.SDSheet.dialog(s.querySelector('.sheet-light') || s, {
+label: "اللغة",
+onClose: function () { dlg = null; hide(); },
+});
+}
+}
+return;
+}
+var cur = document.querySelector('[data-lang-sheet]');
+if (cur && !cur.hidden && (e.target.closest('[data-lang-sheet-close]') || e.target.hasAttribute('data-lang-sheet-backdrop'))) {
+close();
+}
+});
+// ── Drag the drawer (mobile) ──────────────────────────────────────────────
+// Grab the handle OR anywhere in the title row. Down past a threshold
+// dismisses, up expands the list, anything less snaps back. Desktop renders
+// this as a centred modal, where dragging makes no sense, so it is skipped by
+// the same breakpoint the CSS uses.
+var DISMISS = 110, EXPAND = -50;
+var drag = null;
+function isDesktop() { return window.matchMedia && window.matchMedia('(min-width: 768px)').matches; }
+document.addEventListener('pointerdown', function (e) {
+if (isDesktop()) return;
+var grip = e.target.closest && e.target.closest('[data-lang-drag]');
+if (!grip || e.target.closest('[data-lang-sheet-close]')) return;
+var p = panel();
+if (!p) return;
+var list = p.querySelector('.lang-list');
+drag = { y0: e.clientY, dy: 0, p: p, list: list, h0: list ? list.getBoundingClientRect().height : 0 };
+p.classList.add('is-dragging');
+p.classList.remove('is-settling');
+try { grip.setPointerCapture(e.pointerId); } catch (_) { }
+});
+document.addEventListener('pointermove', function (e) {
+if (!drag) return;
+drag.dy = e.clientY - drag.y0;
+// A bottom sheet is ANCHORED to the bottom edge. Dragging down slides it
+// toward dismissal; dragging up must make it TALLER, never move it — the
+// first version translated in both directions, which lifted the whole
+// drawer off the bottom and left a gap under it (owner 2026-09-01).
+if (drag.dy >= 0) {
+drag.p.style.transform = 'translateY(' + drag.dy.toFixed(1) + 'px)';
+if (drag.list) drag.list.style.maxHeight = '';
+} else {
+drag.p.style.transform = 'translateY(0px)';
+if (drag.list) {
+// Grow from the bottom, capped so the sheet can never exceed the screen.
+var grow = Math.min(-drag.dy, Math.max(0, window.innerHeight * 0.88 - drag.h0));
+drag.list.style.maxHeight = (drag.h0 + grow).toFixed(1) + 'px';
+}
+}
+});
+function endDrag() {
+if (!drag) return;
+var p = drag.p, dy = drag.dy, list = drag.list;
+drag = null;
+p.classList.remove('is-dragging');
+p.classList.add('is-settling');
+p.style.transform = '';
+// Hand the height back to the class so it animates to a settled size
+// instead of freezing at wherever the finger stopped.
+if (list) list.style.maxHeight = '';
+if (dy > DISMISS) close();
+else if (dy < EXPAND) p.classList.add('is-expanded');
+else if (dy > 40) p.classList.remove('is-expanded');
+}
+document.addEventListener('pointerup', endDrag);
+document.addEventListener('pointercancel', endDrag);
+})();
+</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"68494d56f28e4e0cb70102ef61cef435","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

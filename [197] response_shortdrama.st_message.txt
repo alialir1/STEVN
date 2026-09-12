@@ -1,0 +1,1329 @@
+h2 200
+date: Sat, 12 Sep 2026 05:22:46 GMT
+content-type: text/html; charset=utf-8
+cf-ray: a39c79eb5a5f1ee3-EBL
+cf-cache-status: DYNAMIC
+content-language: ar
+link: </css/output.css?v=1789048603113>; rel=preload; as=style, </fonts/ClashDisplay-Variable.woff2>; rel=preload; as=font; type=font/woff2; crossorigin
+server: cloudflare
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+x-powered-by: Express
+server-timing: cfCacheStatus;desc="DYNAMIC"
+server-timing: cfEdge;dur=8,cfOrigin;dur=0,cfWorker;dur=406
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PSk8imAuTQE7UBra5rvHJ7ZcSRm%2FxBJVyNgSeJ%2F7wP5TGDQD4fd2Atfw7Xnn7S%2FSJFegHH7tDmDpOAMBOq081W%2Bnsu7GEQ08ZLM5AQazaJ51G9zeZDCPJ0nNpHc31v0f"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+content-encoding: br
+alt-svc: h3=":443"; ma=86400
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-app-shell>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#000000" />
+<title>NetShort — تصفح المسلسلات — ShortDrama.st</title>
+<meta name="description" content="شاهد 1,066,000+ مسلسلات دراما قصيرة مجانًا بدقة عالية على ShortDrama.st. شاهد حلقات ShortMax، NetShort، StarDust، DramaBox، ReelShort، DramaWave الكاملة مع ترجمات. لا يلزم الاشتراك." />
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+<meta name="application-name" content="ShortDrama.st" />
+<meta name="apple-mobile-web-app-title" content="ShortDrama" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="manifest" href="/ar/site.webmanifest" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="ShortDrama.st" />
+<meta property="og:locale" content="ar_SA" />
+<meta property="og:title" content="NetShort — تصفح المسلسلات — ShortDrama.st" />
+<meta property="og:description" content="شاهد 1,066,000+ مسلسلات دراما قصيرة مجانًا بدقة عالية على ShortDrama.st. شاهد حلقات ShortMax، NetShort، StarDust، DramaBox، ReelShort، DramaWave الكاملة مع ترجمات. لا يلزم الاشتراك." />
+<meta property="og:image" content="https://shortdrama.st/images/thumbnail_shortdrama.jpg" />
+<meta property="og:image:alt" content="ShortDrama.st" />
+<link rel="canonical" href="https://shortdrama.st/ar/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<meta property="og:url" content="https://shortdrama.st/ar/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+
+<link rel="alternate" hreflang="en" href="https://shortdrama.st/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="zh-CN" href="https://shortdrama.st/zh/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="zh-HK" href="https://shortdrama.st/yue/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="hi" href="https://shortdrama.st/hi/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="es" href="https://shortdrama.st/es/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="ar" href="https://shortdrama.st/ar/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="fr" href="https://shortdrama.st/fr/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="bn" href="https://shortdrama.st/bn/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="pt" href="https://shortdrama.st/pt/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="ru" href="https://shortdrama.st/ru/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="ur" href="https://shortdrama.st/ur/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="id" href="https://shortdrama.st/id/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="de" href="https://shortdrama.st/de/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="ja" href="https://shortdrama.st/ja/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="mr" href="https://shortdrama.st/mr/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="te" href="https://shortdrama.st/te/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="tr" href="https://shortdrama.st/tr/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="ta" href="https://shortdrama.st/ta/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="vi" href="https://shortdrama.st/vi/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="ko" href="https://shortdrama.st/ko/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="it" href="https://shortdrama.st/it/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="th" href="https://shortdrama.st/th/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="fa" href="https://shortdrama.st/fa/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="he" href="https://shortdrama.st/he/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="pl" href="https://shortdrama.st/pl/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="nl" href="https://shortdrama.st/nl/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="uk" href="https://shortdrama.st/uk/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="ms" href="https://shortdrama.st/ms/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="tl" href="https://shortdrama.st/fil/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="sw" href="https://shortdrama.st/sw/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="az" href="https://shortdrama.st/az/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="ro" href="https://shortdrama.st/ro/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="cs" href="https://shortdrama.st/cs/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="bg" href="https://shortdrama.st/bg/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="nb" href="https://shortdrama.st/nb/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+<link rel="alternate" hreflang="x-default" href="https://shortdrama.st/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="NetShort — تصفح المسلسلات — ShortDrama.st" />
+<meta name="twitter:description" content="شاهد 1,066,000+ مسلسلات دراما قصيرة مجانًا بدقة عالية على ShortDrama.st. شاهد حلقات ShortMax، NetShort، StarDust، DramaBox، ReelShort، DramaWave الكاملة مع ترجمات. لا يلزم الاشتراك." />
+<meta name="twitter:image" content="https://shortdrama.st/images/thumbnail_shortdrama.jpg" />
+<meta name="twitter:image:alt" content="ShortDrama.st" />
+<link rel="stylesheet" href="/css/output.css?v&#x3D;1789048603113" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="/fonts/noto-arabic.woff2" />
+<link rel="stylesheet" href="/fonts/lang-arabic.css" />
+<meta name="6a97888e-site-verification" content="03eda7164241dd3107909a62675c7ff3">
+<meta name="turbo-cache-control" content="no-preview" />
+<meta name="view-transition" content="same-origin" />
+
+
+<script defer src="/js/vendor/turbo.umd.min.js?v&#x3D;1789048603062"></script>
+<script>
+// Shell glue: scroll restore behavior. (PostHog SPA pageviews were removed
+// 2026-09-04 — StatCounter counts pageviews, docs/analytics.md.)
+// Turbo's own progress bar is styled in output.css (.turbo-progress-bar);
+// the legacy nav-progress script bows out under [data-app-shell].
+// Turbo replaces only <body> — <html lang/dir> would go stale across
+// locale switches (RTL↔LTR needed a manual refresh). The incoming body
+// carries data-lang/data-dir; mirror them onto <html> BEFORE render so
+// the new page paints in the right direction, and page scripts that read
+// documentElement.dir (coverflow, swipes, toggle knob) see the truth.
+document.addEventListener('turbo:before-render', function (e) {
+var nb = e.detail && e.detail.newBody;
+if (nb && nb.dataset) {
+if (nb.dataset.lang) document.documentElement.setAttribute('lang', nb.dataset.lang);
+if (nb.dataset.dir) document.documentElement.setAttribute('dir', nb.dataset.dir);
+}
+});
+// Touch prefetch: Turbo 8 prefetches links on mouseenter ONLY, so touch
+// devices (most of our traffic) never prefetch — the time a finger rests
+// on a link before click is wasted. Synthesize mouseenter on touchstart so
+// Turbo's own LinkPrefetchObserver does the work (eligibility checks,
+// 100ms debounce, cache, in-flight reuse at visit time). First touchmove
+// means scroll-not-tap → synthesize mouseleave, which makes Turbo cancel
+// that prefetch. Passive capture listeners: zero effect on scrolling and
+// on the ad script's click handling.
+(function () {
+var armed = null;
+document.addEventListener('touchstart', function (e) {
+var link = e.target && e.target.closest && e.target.closest('a[href]');
+if (!link) return;
+armed = link;
+link.dispatchEvent(new MouseEvent('mouseenter'));
+}, { capture: true, passive: true });
+function cancelArmed() {
+if (!armed) return;
+armed.dispatchEvent(new MouseEvent('mouseleave'));
+armed = null;
+}
+document.addEventListener('touchmove', cancelArmed, { capture: true, passive: true });
+document.addEventListener('touchcancel', cancelArmed, { capture: true, passive: true });
+document.addEventListener('touchend', function () { armed = null; }, { capture: true, passive: true });
+})();
+// Sheet pop gate. A full-screen sheet (search modal today; docs/mobile-ux.md)
+// pushes its own history entry so the phone's Back closes it. Turbo must
+// NOT see that pop: it treats any popped entry carrying its state as a
+// restoration visit — a same-page one here, which re-caches this body
+// mid-close and scrolls it. Bound HERE, inline and before the deferred
+// Turbo script evaluates, because at the window target Chromium runs
+// popstate listeners in registration order (capture flag or not — measured
+// 2026-09-01), so being first is the only way to stop Turbo's. A sheet
+// claims a pop by installing itself as window.__sdPopGate and returning
+// true; the gate is a single slot on purpose — one sheet at a time.
+window.__sdPopGate = null;
+window.addEventListener('popstate', function (e) {
+var g = window.__sdPopGate;
+if (typeof g === 'function' && g(e) === true) e.stopImmediatePropagation();
+});
+</script>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://shortdrama.st/#organization","name":"ShortDrama.st","alternateName":["ShortDrama","ShortDrama.st"],"url":"https://shortdrama.st","logo":{"@type":"ImageObject","url":"https://shortdrama.st/images/shortdrama_mark.png","width":144,"height":144,"caption":"ShortDrama.st logo"},"image":["https://shortdrama.st/images/shortdrama_mark.png","https://shortdrama.st/images/shortdrama_full_logo.png","https://shortdrama.st/images/shortdrama_long_text_logo.png","https://shortdrama.st/images/thumbnail_shortdrama.jpg"],"description":"Watch 1,066,000+ short drama series free in HD on ShortDrama.st. Stream ShortMax, NetShort, StarDust, DramaBox, ReelShort, DramaWave full episodes with subtitles. No subscription required.","foundingDate":"2026"},{"@type":"WebSite","@id":"https://shortdrama.st/#website","url":"https://shortdrama.st","name":"ShortDrama.st","alternateName":["ShortDrama","ShortDrama.st"],"description":"Watch 1,066,000+ short drama series free in HD on ShortDrama.st. Stream ShortMax, NetShort, StarDust, DramaBox, ReelShort, DramaWave full episodes with subtitles. No subscription required.","inLanguage":"ar","publisher":{"@id":"https://shortdrama.st/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://shortdrama.st/browse?q={search_term_string}"},"query-input":"required name=search_term_string"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://shortdrama.st/ar/home"},{"@type":"ListItem","position":2,"name":"تصفح"}]},{"@type":"CollectionPage","name":"NetShort — تصفح المسلسلات — ShortDrama.st","description":"شاهد 1,066,000+ مسلسلات دراما قصيرة مجانًا بدقة عالية على ShortDrama.st. شاهد حلقات ShortMax، NetShort، StarDust، DramaBox، ReelShort، DramaWave الكاملة مع ترجمات. لا يلزم الاشتراك.","url":"https://shortdrama.st/ar/browse?platform=NetShort\u0026lang=AR\u0026sort=views","isPartOf":{"@id":"https://shortdrama.st/#website"},"inLanguage":"ar","provider":{"@id":"https://shortdrama.st/#organization"},"mainEntity":{"@type":"ItemList","numberOfItems":48775,"itemListElement":[{"@type":"ListItem","position":1,"url":"https://shortdrama.st/ar/series/mecha-god-dumped-his-tempting-wife-netshort-12/1","name":"Mecha God Dumped His Tempting Wife"},{"@type":"ListItem","position":2,"url":"https://shortdrama.st/ar/series/dublajl-kay-p-sef-netshort-7/1","name":"Kayıp Şef"},{"@type":"ListItem","position":3,"url":"https://shortdrama.st/ar/series/omg-my-boy-toy-assistant-sees-everything-netshort-11/1","name":"OMG! My “Boy-Toy” Assistant Sees Everything!"},{"@type":"ListItem","position":4,"url":"https://shortdrama.st/ar/series/l-oncle-de-mon-mec-netshort-11/1","name":"L'ONCLE DE MON MEC"},{"@type":"ListItem","position":5,"url":"https://shortdrama.st/ar/series/the-mafia-heir-s-beloved-netshort-11/1","name":"The Mafia Heir's Beloved"},{"@type":"ListItem","position":6,"url":"https://shortdrama.st/ar/series/when-housewives-turn-deadly-netshort-12/1","name":"When Housewives Turn Deadly"},{"@type":"ListItem","position":7,"url":"https://shortdrama.st/ar/series/sss-rank-the-slum-born-thunder-god-netshort-12/1","name":"SSS-Rank: The Slum-Born Thunder God"},{"@type":"ListItem","position":8,"url":"https://shortdrama.st/ar/series/broken-arm-broken-bloodline-netshort-11/1","name":"Broken Arm, Broken Bloodline"},{"@type":"ListItem","position":9,"url":"https://shortdrama.st/ar/series/false-weakling-true-power-netshort-12/1","name":"False Weakling, True Power"},{"@type":"ListItem","position":10,"url":"https://shortdrama.st/ar/series/the-hidden-queen-my-husband-s-mistress-ruined-my-empire-netshort-11/1","name":"The Hidden Queen: My Husband's Mistress Ruined My Empire"},{"@type":"ListItem","position":11,"url":"https://shortdrama.st/ar/series/forbidden-desire-netshort-22/1","name":"Forbidden Desire"},{"@type":"ListItem","position":12,"url":"https://shortdrama.st/ar/series/swapped-to-a-beggar-but-he-is-apollo-netshort-11/1","name":"Swapped to a Beggar But He is Apollo"},{"@type":"ListItem","position":13,"url":"https://shortdrama.st/ar/series/jiwa-iblis-dibalik-zirah-berat-netshort-11/1","name":"Jiwa Iblis Dibalik Zirah Berat"},{"@type":"ListItem","position":14,"url":"https://shortdrama.st/ar/series/watch-out-i-m-not-just-the-mecha-king-netshort-12/1","name":"Watch Out: I'm Not Just the Mecha King"},{"@type":"ListItem","position":15,"url":"https://shortdrama.st/ar/series/i-spoke-baby-dragon-and-won-everyone-over-netshort-12/1","name":"I Spoke Baby Dragon and Won Everyone Over!"},{"@type":"ListItem","position":16,"url":"https://shortdrama.st/ar/series/dumping-my-quarterback-after-i-slimmed-down-netshort-11/1","name":"Dumping My Quarterback After I Slimmed Down"},{"@type":"ListItem","position":17,"url":"https://shortdrama.st/ar/series/30-years-frozen-3-brothers-regret-netshort-11/1","name":"30 Years Frozen,3 Brothers Regret"},{"@type":"ListItem","position":18,"url":"https://shortdrama.st/ar/series/one-move-god-mode-netshort-11/1","name":"One Move God Mode"},{"@type":"ListItem","position":19,"url":"https://shortdrama.st/ar/series/ksatria-bertangan-satu-netshort-9/1","name":"Ksatria Bertangan Satu"},{"@type":"ListItem","position":20,"url":"https://shortdrama.st/ar/series/wanita-pemburu-pelaku-kdrt-netshort-12/1","name":"Wanita Pemburu Pelaku KDRT"},{"@type":"ListItem","position":21,"url":"https://shortdrama.st/ar/series/the-dragon-tyrant-s-secret-heir-netshort-12/1","name":"The Dragon Tyrant's Secret Heir"},{"@type":"ListItem","position":22,"url":"https://shortdrama.st/ar/series/hit-netshort-11/1","name":"HIT"},{"@type":"ListItem","position":23,"url":"https://shortdrama.st/ar/series/the-wolfless-carpenter-rules-the-world-netshort-12/1","name":"The Wolfless Carpenter Rules the World"},{"@type":"ListItem","position":24,"url":"https://shortdrama.st/ar/series/you-cast-me-aside-he-holds-me-dear-netshort-12/1","name":"You Cast Me Aside, He Holds Me Dear"}]}}]}</script>
+
+</head>
+<body class="text-gray-200 font-sans" data-lang="ar" data-dir="rtl" data-lang-prefix="/ar" data-rum-rate="0.25" data-guest="1">
+<script src="https://airconditionstrodefist.com/85/9e/c3/859ec32d8f41101f868dce2e0f82046c.js" async data-cfasync="false"></script>
+
+<header class="rs-header is-solid sticky top-0 z-30 pt-[env(safe-area-inset-top)]">
+<div class="flex items-center gap-2.5" style="padding-inline:var(--rs-inset);padding-block:8px">
+<a href="/ar/home" data-header-back aria-label="رجوع"
+class="rs-search-action flex-shrink-0 active-press" style="position:static;transform:none;background:rgba(255,255,255,.10)">
+<svg width="18" height="18" class="rtl:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+</a>
+<div class="relative flex-1 min-w-0">
+<a href="/ar/browse#search" data-sm-open class="rs-search has-action" aria-label="ابحث عن الدراما">
+<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" class="flex-shrink-0">
+<circle cx="11" cy="11" r="7"/><path stroke-linecap="round" d="M21 21l-4.35-4.35"/>
+</svg>
+<span class="rs-search-text" data-rs-rotate><span>ابحث عن الدراما</span></span>
+</a>
+<span class="rs-search-divider" aria-hidden="true"></span>
+<button type="button" data-open-lang-sheet aria-label="اللغة" class="rs-search-action">
+<svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
+<circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+</svg>
+</button>
+</div>
+<a href="/ar/coins" class="flex-shrink-0 flex items-center gap-1.5 active-press rounded-full ps-1.5 pe-3 py-1.5"
+style="background:linear-gradient(135deg,#3a2a06,#1a1206);border:1px solid rgba(251,191,36,.35)" aria-label="قطع نقدية">
+<span class="relative inline-flex">
+<span data-coin-dot class="sd-claim-dot" hidden aria-hidden="true"></span>
+<img src="/images/coins/coin-64.webp" alt="" aria-hidden="true" width="24" height="24" class="w-6 h-6" />
+</span>
+<span data-coin-badge class="text-[13px] font-extrabold" style="color:#fbbf24">قطع نقدية</span>
+</a>
+</div>
+</header>
+<script>
+// Same behaviour as the classic header's back link: walk the same-domain
+// trail (sdBack, i18n-shim) — never history.back(), whose previous entry
+// can be a same-tab popunder landing or the external referrer. Guarded so
+// a Turbo body swap cannot bind it twice.
+(function () {
+var a = document.querySelector('.rs-header [data-header-back]');
+if (!a || a.__sdBound) return;
+a.__sdBound = 1;
+a.addEventListener('click', function (e) {
+if (!window.sdBack) return; /* fall through to the href */
+e.preventDefault();
+window.sdBack(a.getAttribute('href'));
+});
+})();
+</script>
+<main class="rs-shell min-h-screen" style="padding-bottom: calc(58px + env(safe-area-inset-bottom) + 24px)">
+<h1 class="sr-only">كل المسلسلات</h1>
+<div class="sm-active">
+<a href="/ar/browse?lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip is-on">NetShort</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;sort&#x3D;views" class="rs-chip is-on">العربية</a>
+<a href="/ar/browse" class="rs-chip">إعادة تعيين</a>
+</div>
+<div class="sm-label">المنصات</div>
+<div class="sm-rail">
+<a href="/ar/browse?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/netshort.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>NetShort</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;PineDrama&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/pinedrama.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>PineDrama</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;GoodShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/goodshort.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>GoodShort</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;ReelShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/reelshort.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>ReelShort</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;DramaBox&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/dramabox.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>DramaBox</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;DramaWave&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/dramawave.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>DramaWave</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;ShortMax&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/shortmax.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>ShortMax</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;FreeReels&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/freereels.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>FreeReels</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;StarDust&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/stardust.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>StarDust</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;ShortWave&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/shortwave.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>ShortWave</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;FlexTV&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/flextv.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>FlexTV</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;TopDrama&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/topdrama.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>TopDrama</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;DramaBite&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/dramabite.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>DramaBite</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;CubeTV&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/cubetv.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>CubeTV</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;RapidTV&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/rapidtv.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>RapidTV</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;SerialPlus&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/serialplus.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>SerialPlus</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;DramaNova&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip">
+
+<span>DramaNova</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;KalosTV&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/kalostv.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>KalosTV</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;StarShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/starshort.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>StarShort</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;SodaReels&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/sodareels.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>SodaReels</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;FlareFlow&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/flareflow.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>FlareFlow</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;Storyreel&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/storyreel.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>Storyreel</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;RaptDrama&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/raptdrama.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>RaptDrama</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;FlickReels&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/flickreels.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>FlickReels</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;DotDrama&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip">
+
+<span>DotDrama</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;HappyShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/happyshort.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>HappyShort</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;MoboReels&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/moboreels.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>MoboReels</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;VibeShort&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/vibeshort.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>VibeShort</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;Joyreels&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/joyreels.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>Joyreels</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;GoldDrama&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/golddrama.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>GoldDrama</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;ShortBox&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/shortbox.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>ShortBox</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;ShortsWave&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/shortswave.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>ShortsWave</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;iDrama&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/idrama.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>iDrama</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;DramaPops&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip">
+
+<span>DramaPops</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;BiliTV&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/bilitv.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>BiliTV</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;Reelife&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/reelife.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>Reelife</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;Vigloo&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip has-mark">
+<img src="/assets/platforms/vigloo.png" alt="" loading="lazy" onerror="this.remove()" />
+<span>Vigloo</span>
+</a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;platform&#x3D;Playlet&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip">
+
+<span>Playlet</span>
+</a>
+</div>
+<div class="sm-label">الأنواع</div>
+<div class="sm-rail">
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Action&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Action</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Adventure&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Adventure</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Anime&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Anime</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Aristocracy&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Aristocracy</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Betrayal&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Betrayal</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Billionaire&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Billionaire</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Celebrity&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Celebrity</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Counterattack&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Counterattack</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Family%20Drama&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Family Drama</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Fantasy&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Fantasy</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Hidden%20Identity&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Hidden Identity</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;High%20society&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>High society</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Modern&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Modern</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Playing%20Dumb&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Playing Dumb</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Rebirth&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Rebirth</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Reborn&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Reborn</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Revenge&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Revenge</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Reversal%20of%20Fortune&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Reversal of Fortune</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Royal%20court&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Royal court</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Rural%20life&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Rural life</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Second%20Chance&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Second Chance</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Urban%20life&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Urban life</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Werewolf&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Werewolf</span></a>
+<a href="/ar/browse?platform&#x3D;NetShort&amp;genre&#x3D;Workplace&amp;lang&#x3D;AR&amp;sort&#x3D;views" class="rs-chip"><span>Workplace</span></a>
+<a href="/ar/genres" class="rs-chip"><span>كل الأنواع</span></a>
+</div>
+<p class="sm-count">
+48,775 نتيجة
+</p>
+
+<div class="rs-grid rs-grid-3" style="padding-top:2px">
+<a href="/ar/series/mecha-god-dumped-his-tempting-wife-netshort-12/1" class="rs-card">
+<div class="rs-poster" style="background-color:#3c3b37">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1121976284_1080X1440.png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1121976284_1080X1440.png~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1121976284_1080X1440.png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1121976284_1080X1440.png~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1121976284_1080X1440.png~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="Mecha God Dumped His Tempting Wife" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>25
+</span>
+</div>
+<div class="rs-title">Mecha God Dumped His Tempting Wife</div>
+
+</a><a href="/ar/series/dublajl-kay-p-sef-netshort-7/1" class="rs-card">
+<div class="rs-poster" style="background-color:#5c4734">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1894651211002900481/1747725720477-1136262783575068-3%E6%AF%944.jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1894651211002900481/1747725720477-1136262783575068-3%E6%AF%944.jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1894651211002900481/1747725720477-1136262783575068-3%E6%AF%944.jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1894651211002900481/1747725720477-1136262783575068-3%E6%AF%944.jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/prod/1894651211002900481/1747725720477-1136262783575068-3%E6%AF%944.jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="Kayıp Şef" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>1
+</span>
+</div>
+<div class="rs-title">Kayıp Şef</div>
+
+</a><a href="/ar/series/omg-my-boy-toy-assistant-sees-everything-netshort-11/1" class="rs-card">
+<div class="rs-poster" style="background-color:#583e28">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/1996553233469747201/1765178632236-6280443706715387-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/1996553233469747201/1765178632236-6280443706715387-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/1996553233469747201/1765178632236-6280443706715387-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/1996553233469747201/1765178632236-6280443706715387-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/1996553233469747201/1765178632236-6280443706715387-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="OMG! My “Boy-Toy” Assistant Sees Everything!" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>1
+</span>
+</div>
+<div class="rs-title">OMG! My “Boy-Toy” Assistant Sees Everything!</div>
+
+</a><a href="/ar/series/l-oncle-de-mon-mec-netshort-11/1" class="rs-card">
+<div class="rs-poster" style="background-color:#382e29">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2077209164173524993/1784519495965-4063851366806093-3%E6%AF%944png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2077209164173524993/1784519495965-4063851366806093-3%E6%AF%944png~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2077209164173524993/1784519495965-4063851366806093-3%E6%AF%944png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2077209164173524993/1784519495965-4063851366806093-3%E6%AF%944png~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2077209164173524993/1784519495965-4063851366806093-3%E6%AF%944png~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="L&#x27;ONCLE DE MON MEC" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>1
+</span>
+</div>
+<div class="rs-title">L&#x27;ONCLE DE MON MEC</div>
+
+</a><a href="/ar/series/the-mafia-heir-s-beloved-netshort-11/1" class="rs-card">
+<div class="rs-poster" style="background-color:#423935">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1110341307_4.jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1110341307_4.jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1110341307_4.jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1110341307_4.jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/1110341307_4.jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="The Mafia Heir&#x27;s Beloved" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>1
+</span>
+</div>
+<div class="rs-title">The Mafia Heir&#x27;s Beloved</div>
+
+</a><a href="/ar/series/when-housewives-turn-deadly-netshort-12/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2087124331687366658/1788149503996-.830209994668479-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2087124331687366658/1788149503996-.830209994668479-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2087124331687366658/1788149503996-.830209994668479-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2087124331687366658/1788149503996-.830209994668479-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2087124331687366658/1788149503996-.830209994668479-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="When Housewives Turn Deadly" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">When Housewives Turn Deadly</div>
+
+</a><a href="/ar/series/sss-rank-the-slum-born-thunder-god-netshort-12/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2089169765822431234/1787043348158-0041291375395074-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2089169765822431234/1787043348158-0041291375395074-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2089169765822431234/1787043348158-0041291375395074-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2089169765822431234/1787043348158-0041291375395074-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2089169765822431234/1787043348158-0041291375395074-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="SSS-Rank: The Slum-Born Thunder God" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">SSS-Rank: The Slum-Born Thunder God</div>
+
+</a><a href="/ar/series/broken-arm-broken-bloodline-netshort-11/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/253181943_%E6%9C%AB%E4%B8%96%E6%96%AD%E8%87%82%E6%B5%B7%E6%8A%A53.4.png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/253181943_%E6%9C%AB%E4%B8%96%E6%96%AD%E8%87%82%E6%B5%B7%E6%8A%A53.4.png~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/253181943_%E6%9C%AB%E4%B8%96%E6%96%AD%E8%87%82%E6%B5%B7%E6%8A%A53.4.png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/253181943_%E6%9C%AB%E4%B8%96%E6%96%AD%E8%87%82%E6%B5%B7%E6%8A%A53.4.png~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/253181943_%E6%9C%AB%E4%B8%96%E6%96%AD%E8%87%82%E6%B5%B7%E6%8A%A53.4.png~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="Broken Arm, Broken Bloodline" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">Broken Arm, Broken Bloodline</div>
+
+</a><a href="/ar/series/false-weakling-true-power-netshort-12/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2055222289170300929/1779525376471-.957972767693432-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2055222289170300929/1779525376471-.957972767693432-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2055222289170300929/1779525376471-.957972767693432-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2055222289170300929/1779525376471-.957972767693432-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2055222289170300929/1779525376471-.957972767693432-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="False Weakling, True Power" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">False Weakling, True Power</div>
+
+</a><a href="/ar/series/the-hidden-queen-my-husband-s-mistress-ruined-my-empire-netshort-11/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1335900337_output.lin(4).jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1335900337_output.lin(4).jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1335900337_output.lin(4).jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1335900337_output.lin(4).jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-1335900337_output.lin(4).jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="The Hidden Queen: My Husband&#x27;s Mistress Ruined My Empire" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">The Hidden Queen: My Husband&#x27;s Mistress Ruined My Empire</div>
+
+</a><a href="/ar/series/forbidden-desire-netshort-22/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2086001154000986114/1787222789713-9592687099737951-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2086001154000986114/1787222789713-9592687099737951-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2086001154000986114/1787222789713-9592687099737951-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2086001154000986114/1787222789713-9592687099737951-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2086001154000986114/1787222789713-9592687099737951-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="Forbidden Desire" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">Forbidden Desire</div>
+
+</a><a href="/ar/series/swapped-to-a-beggar-but-he-is-apollo-netshort-11/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2064962435498647554/1782555791419-7359826954003992-3%E6%AF%944png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2064962435498647554/1782555791419-7359826954003992-3%E6%AF%944png~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2064962435498647554/1782555791419-7359826954003992-3%E6%AF%944png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2064962435498647554/1782555791419-7359826954003992-3%E6%AF%944png~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2064962435498647554/1782555791419-7359826954003992-3%E6%AF%944png~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="Swapped to a Beggar But He is Apollo" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">Swapped to a Beggar But He is Apollo</div>
+
+</a><a href="/ar/series/jiwa-iblis-dibalik-zirah-berat-netshort-11/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2088091211302809601/1787108252293-2372130022594977-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2088091211302809601/1787108252293-2372130022594977-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2088091211302809601/1787108252293-2372130022594977-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2088091211302809601/1787108252293-2372130022594977-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2088091211302809601/1787108252293-2372130022594977-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="Jiwa Iblis Dibalik Zirah Berat" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">Jiwa Iblis Dibalik Zirah Berat</div>
+
+</a><a href="/ar/series/watch-out-i-m-not-just-the-mecha-king-netshort-12/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2084200905853882369/e47adcc5aafb497bb8fd52014fc5109a/2091091658340667393.jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2084200905853882369/e47adcc5aafb497bb8fd52014fc5109a/2091091658340667393.jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2084200905853882369/e47adcc5aafb497bb8fd52014fc5109a/2091091658340667393.jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2084200905853882369/e47adcc5aafb497bb8fd52014fc5109a/2091091658340667393.jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2084200905853882369/e47adcc5aafb497bb8fd52014fc5109a/2091091658340667393.jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="Watch Out: I&#x27;m Not Just the Mecha King" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">Watch Out: I&#x27;m Not Just the Mecha King</div>
+
+</a><a href="/ar/series/i-spoke-baby-dragon-and-won-everyone-over-netshort-12/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2094674344050360322/1788405159425-3913453338919213-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2094674344050360322/1788405159425-3913453338919213-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2094674344050360322/1788405159425-3913453338919213-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2094674344050360322/1788405159425-3913453338919213-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2094674344050360322/1788405159425-3913453338919213-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="I Spoke Baby Dragon and Won Everyone Over!" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">I Spoke Baby Dragon and Won Everyone Over!</div>
+
+</a><a href="/ar/series/dumping-my-quarterback-after-i-slimmed-down-netshort-11/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-272488737_3%EF%BC%9A4(31).png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-272488737_3%EF%BC%9A4(31).png~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-272488737_3%EF%BC%9A4(31).png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-272488737_3%EF%BC%9A4(31).png~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-272488737_3%EF%BC%9A4(31).png~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="Dumping My Quarterback After I Slimmed Down" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">Dumping My Quarterback After I Slimmed Down</div>
+
+</a><a href="/ar/series/30-years-frozen-3-brothers-regret-netshort-11/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/1933531302227148801/90f526249c524552954f2e61f7f70b5e/2087118904673140738.jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/1933531302227148801/90f526249c524552954f2e61f7f70b5e/2087118904673140738.jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/1933531302227148801/90f526249c524552954f2e61f7f70b5e/2087118904673140738.jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/1933531302227148801/90f526249c524552954f2e61f7f70b5e/2087118904673140738.jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/1933531302227148801/90f526249c524552954f2e61f7f70b5e/2087118904673140738.jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="30 Years Frozen,3 Brothers Regret" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">30 Years Frozen,3 Brothers Regret</div>
+
+</a><a href="/ar/series/one-move-god-mode-netshort-11/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2034157060395892737/1774692131156-6835162549693906-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2034157060395892737/1774692131156-6835162549693906-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2034157060395892737/1774692131156-6835162549693906-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2034157060395892737/1774692131156-6835162549693906-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2034157060395892737/1774692131156-6835162549693906-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="One Move God Mode" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">One Move God Mode</div>
+
+</a><a href="/ar/series/ksatria-bertangan-satu-netshort-9/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2088790491789586433/1787194953029-.418638329494749-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2088790491789586433/1787194953029-.418638329494749-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2088790491789586433/1787194953029-.418638329494749-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2088790491789586433/1787194953029-.418638329494749-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2088790491789586433/1787194953029-.418638329494749-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="Ksatria Bertangan Satu" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">Ksatria Bertangan Satu</div>
+
+</a><a href="/ar/series/wanita-pemburu-pelaku-kdrt-netshort-12/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2087124331687366658/6b822d04e1e7482099f6a4c2ce770f4f/2092176994756214786.jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2087124331687366658/6b822d04e1e7482099f6a4c2ce770f4f/2092176994756214786.jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2087124331687366658/6b822d04e1e7482099f6a4c2ce770f4f/2092176994756214786.jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2087124331687366658/6b822d04e1e7482099f6a4c2ce770f4f/2092176994756214786.jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2087124331687366658/6b822d04e1e7482099f6a4c2ce770f4f/2092176994756214786.jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="Wanita Pemburu Pelaku KDRT" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">Wanita Pemburu Pelaku KDRT</div>
+
+</a><a href="/ar/series/the-dragon-tyrant-s-secret-heir-netshort-12/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2091777937621561345/1788332403377-8555765510467989-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2091777937621561345/1788332403377-8555765510467989-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2091777937621561345/1788332403377-8555765510467989-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2091777937621561345/1788332403377-8555765510467989-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2091777937621561345/1788332403377-8555765510467989-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="The Dragon Tyrant&#x27;s Secret Heir" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">The Dragon Tyrant&#x27;s Secret Heir</div>
+
+</a><a href="/ar/series/hit-netshort-11/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/528608893_output.lin(6).png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/528608893_output.lin(6).png~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/528608893_output.lin(6).png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/528608893_output.lin(6).png~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/528608893_output.lin(6).png~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="HIT" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">HIT</div>
+
+</a><a href="/ar/series/the-wolfless-carpenter-rules-the-world-netshort-12/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2050068354445606913/1777717532577-8385715562098309-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2050068354445606913/1777717532577-8385715562098309-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2050068354445606913/1777717532577-8385715562098309-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2050068354445606913/1777717532577-8385715562098309-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/imageG/production/2050068354445606913/1777717532577-8385715562098309-3%E6%AF%944jpg~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="The Wolfless Carpenter Rules the World" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">The Wolfless Carpenter Rules the World</div>
+
+</a><a href="/ar/series/you-cast-me-aside-he-holds-me-dear-netshort-12/1" class="rs-card">
+<div class="rs-poster">
+<img src="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-894353449_3%EF%BC%9A4(17).png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto" srcset="/media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-894353449_3%EF%BC%9A4(17).png~tplv-vod-rs:540:720.webp?w&#x3D;160&amp;f&#x3D;auto 160w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-894353449_3%EF%BC%9A4(17).png~tplv-vod-rs:540:720.webp?w&#x3D;240&amp;f&#x3D;auto 240w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-894353449_3%EF%BC%9A4(17).png~tplv-vod-rs:540:720.webp?w&#x3D;320&amp;f&#x3D;auto 320w, /media-proxy/img/ext/awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-894353449_3%EF%BC%9A4(17).png~tplv-vod-rs:540:720.webp?w&#x3D;480&amp;f&#x3D;auto 480w" sizes="auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px" alt="You Cast Me Aside, He Holds Me Dear" width="480" height="640" loading="lazy" decoding="async" />
+
+<span class="rs-count">
+<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>0
+</span>
+</div>
+<div class="rs-title">You Cast Me Aside, He Holds Me Dear</div>
+
+</a>
+</div>
+
+<nav aria-label="Pagination" style="display:flex;gap:10px;justify-content:center;padding:26px var(--rs-inset) 0">
+
+<a href="?platform&#x3D;NetShort&amp;lang&#x3D;AR&amp;sort&#x3D;views&amp;page&#x3D;2" class="sm-more" style="margin:0">التالي</a>
+</nav>
+</main>
+<footer class="ft">
+<a href="/ar/home" class="ft-brand" aria-label="الصفحة الرئيسية لـ ShortDrama.st">
+<img src="/images/shortdrama_mark.png" alt="" aria-hidden="true" width="34" height="34" />
+<span>ShortDrama<b>.st</b></span>
+</a>
+<p class="ft-tag">شاهد مسلسلات قصيرة مجانًا عبر الإنترنت</p>
+<nav class="ft-quick" aria-label="تصفح">
+<a href="/ar/browse">تصفح</a>
+<a href="/ar/genres">الأنواع</a>
+<a href="/ar/actors">الممثلون</a>
+<a href="/ar/actresses">الممثلات</a>
+</nav>
+<details class="ft-sec">
+<summary>قائمة أ-ي<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/></svg></summary>
+<div class="ft-chips">
+<a href="/ar/browse" class="is-on">الكل</a>
+<a href="/ar/browse?letter=#">#</a><a href="/ar/browse?letter=A">A</a><a href="/ar/browse?letter=B">B</a><a href="/ar/browse?letter=C">C</a><a href="/ar/browse?letter=D">D</a><a href="/ar/browse?letter=E">E</a><a href="/ar/browse?letter=F">F</a><a href="/ar/browse?letter=G">G</a><a href="/ar/browse?letter=H">H</a><a href="/ar/browse?letter=I">I</a><a href="/ar/browse?letter=J">J</a><a href="/ar/browse?letter=K">K</a><a href="/ar/browse?letter=L">L</a><a href="/ar/browse?letter=M">M</a><a href="/ar/browse?letter=N">N</a><a href="/ar/browse?letter=O">O</a><a href="/ar/browse?letter=P">P</a><a href="/ar/browse?letter=Q">Q</a><a href="/ar/browse?letter=R">R</a><a href="/ar/browse?letter=S">S</a><a href="/ar/browse?letter=T">T</a><a href="/ar/browse?letter=U">U</a><a href="/ar/browse?letter=V">V</a><a href="/ar/browse?letter=W">W</a><a href="/ar/browse?letter=X">X</a><a href="/ar/browse?letter=Y">Y</a><a href="/ar/browse?letter=Z">Z</a>
+</div>
+</details>
+<details class="ft-sec">
+<summary>المنصات<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/></svg></summary>
+<div class="ft-plats">
+<a href="/ar/browse?platform=NetShort">
+<img src="/assets/platforms/netshort.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>NetShort</span>
+</a>
+<a href="/ar/browse?platform=PineDrama">
+<img src="/assets/platforms/pinedrama.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>PineDrama</span>
+</a>
+<a href="/ar/browse?platform=GoodShort">
+<img src="/assets/platforms/goodshort.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>GoodShort</span>
+</a>
+<a href="/ar/browse?platform=ReelShort">
+<img src="/assets/platforms/reelshort.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>ReelShort</span>
+</a>
+<a href="/ar/browse?platform=DramaBox">
+<img src="/assets/platforms/dramabox.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>DramaBox</span>
+</a>
+<a href="/ar/browse?platform=DramaWave">
+<img src="/assets/platforms/dramawave.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>DramaWave</span>
+</a>
+<a href="/ar/browse?platform=ShortMax">
+<img src="/assets/platforms/shortmax.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>ShortMax</span>
+</a>
+<a href="/ar/browse?platform=FreeReels">
+<img src="/assets/platforms/freereels.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>FreeReels</span>
+</a>
+<a href="/ar/browse?platform=StarDust">
+<img src="/assets/platforms/stardust.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>StarDust</span>
+</a>
+<a href="/ar/browse?platform=ShortWave">
+<img src="/assets/platforms/shortwave.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>ShortWave</span>
+</a>
+<a href="/ar/browse?platform=FlexTV">
+<img src="/assets/platforms/flextv.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>FlexTV</span>
+</a>
+<a href="/ar/browse?platform=TopDrama">
+<img src="/assets/platforms/topdrama.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>TopDrama</span>
+</a>
+<a href="/ar/browse?platform=DramaBite">
+<img src="/assets/platforms/dramabite.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>DramaBite</span>
+</a>
+<a href="/ar/browse?platform=CubeTV">
+<img src="/assets/platforms/cubetv.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>CubeTV</span>
+</a>
+<a href="/ar/browse?platform=RapidTV">
+<img src="/assets/platforms/rapidtv.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>RapidTV</span>
+</a>
+<a href="/ar/browse?platform=SerialPlus">
+<img src="/assets/platforms/serialplus.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>SerialPlus</span>
+</a>
+<a href="/ar/browse?platform=DramaNova">
+
+<span>DramaNova</span>
+</a>
+<a href="/ar/browse?platform=KalosTV">
+<img src="/assets/platforms/kalostv.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>KalosTV</span>
+</a>
+<a href="/ar/browse?platform=StarShort">
+<img src="/assets/platforms/starshort.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>StarShort</span>
+</a>
+<a href="/ar/browse?platform=SodaReels">
+<img src="/assets/platforms/sodareels.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>SodaReels</span>
+</a>
+<a href="/ar/browse?platform=FlareFlow">
+<img src="/assets/platforms/flareflow.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>FlareFlow</span>
+</a>
+<a href="/ar/browse?platform=Storyreel">
+<img src="/assets/platforms/storyreel.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>Storyreel</span>
+</a>
+<a href="/ar/browse?platform=RaptDrama">
+<img src="/assets/platforms/raptdrama.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>RaptDrama</span>
+</a>
+<a href="/ar/browse?platform=FlickReels">
+<img src="/assets/platforms/flickreels.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>FlickReels</span>
+</a>
+<a href="/ar/browse?platform=DotDrama">
+
+<span>DotDrama</span>
+</a>
+<a href="/ar/browse?platform=HappyShort">
+<img src="/assets/platforms/happyshort.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>HappyShort</span>
+</a>
+<a href="/ar/browse?platform=MoboReels">
+<img src="/assets/platforms/moboreels.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>MoboReels</span>
+</a>
+<a href="/ar/browse?platform=VibeShort">
+<img src="/assets/platforms/vibeshort.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>VibeShort</span>
+</a>
+<a href="/ar/browse?platform=Joyreels">
+<img src="/assets/platforms/joyreels.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>Joyreels</span>
+</a>
+<a href="/ar/browse?platform=GoldDrama">
+<img src="/assets/platforms/golddrama.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>GoldDrama</span>
+</a>
+<a href="/ar/browse?platform=ShortBox">
+<img src="/assets/platforms/shortbox.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>ShortBox</span>
+</a>
+<a href="/ar/browse?platform=ShortsWave">
+<img src="/assets/platforms/shortswave.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>ShortsWave</span>
+</a>
+<a href="/ar/browse?platform=iDrama">
+<img src="/assets/platforms/idrama.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>iDrama</span>
+</a>
+<a href="/ar/browse?platform=DramaPops">
+
+<span>DramaPops</span>
+</a>
+<a href="/ar/browse?platform=BiliTV">
+<img src="/assets/platforms/bilitv.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>BiliTV</span>
+</a>
+<a href="/ar/browse?platform=Reelife">
+<img src="/assets/platforms/reelife.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>Reelife</span>
+</a>
+<a href="/ar/browse?platform=Vigloo">
+<img src="/assets/platforms/vigloo.png" alt="" loading="lazy" onerror="this.style.visibility='hidden'" />
+<span>Vigloo</span>
+</a>
+<a href="/ar/browse?platform=Playlet">
+
+<span>Playlet</span>
+</a>
+</div>
+</details>
+<details class="ft-sec">
+<summary>أنواع كثيرة (754)<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/></svg></summary>
+<div class="ft-cols">
+<a href="/ar/browse?genre=Action">Action</a><a href="/ar/browse?genre=Adventure">Adventure</a><a href="/ar/browse?genre=Anime">Anime</a><a href="/ar/browse?genre=Aristocracy">Aristocracy</a><a href="/ar/browse?genre=Betrayal">Betrayal</a><a href="/ar/browse?genre=Billionaire">Billionaire</a><a href="/ar/browse?genre=Celebrity">Celebrity</a><a href="/ar/browse?genre=Counterattack">Counterattack</a><a href="/ar/browse?genre=Family%20Drama">Family Drama</a><a href="/ar/browse?genre=Fantasy">Fantasy</a><a href="/ar/browse?genre=Hidden%20Identity">Hidden Identity</a><a href="/ar/browse?genre=High%20society">High society</a><a href="/ar/browse?genre=Modern">Modern</a><a href="/ar/browse?genre=Playing%20Dumb">Playing Dumb</a><a href="/ar/browse?genre=Rebirth">Rebirth</a><a href="/ar/browse?genre=Reborn">Reborn</a><a href="/ar/browse?genre=Revenge">Revenge</a><a href="/ar/browse?genre=Reversal%20of%20Fortune">Reversal of Fortune</a><a href="/ar/browse?genre=Royal%20court">Royal court</a><a href="/ar/browse?genre=Rural%20life">Rural life</a><a href="/ar/browse?genre=Second%20Chance">Second Chance</a><a href="/ar/browse?genre=Urban%20life">Urban life</a><a href="/ar/browse?genre=Werewolf">Werewolf</a><a href="/ar/browse?genre=Workplace">Workplace</a>
+<a href="/ar/genres" class="is-accent">كل الأنواع</a>
+</div>
+</details>
+<details class="ft-sec">
+<summary>اقرأ الأعمال الأصلية<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/></svg></summary>
+<p class="ft-note">بدأت العديد من هذه المسلسلات كـ webtoons — اقرأ القصص المصدر مجانًا، باللغة الفرنسية.</p>
+<div class="ft-reads">
+<a href="https://japscan.st" target="_blank" rel="noopener">
+<span class="ft-read-mark" style="--m:#fb7185">J<img src="/images/reads/japscan.png" alt="" loading="lazy" onerror="this.remove()" /></span>
+<span class="ft-read-id"><b>Japscan</b><i>فصول مانغا جديدة يوميًا</i></span>
+</a>
+<a href="https://sushiscan.st" target="_blank" rel="noopener">
+<span class="ft-read-mark" style="--m:#34d399">S<img src="/images/reads/sushiscan.png" alt="" loading="lazy" onerror="this.remove()" /></span>
+<span class="ft-read-id"><b>Sushiscan</b><i>مكتبة المانجا والمانهوا</i></span>
+</a>
+<a href="https://crunchyscan.st" target="_blank" rel="noopener">
+<span class="ft-read-mark" style="--m:#fbbf24">C<img src="/images/reads/crunchyscan.png" alt="" loading="lazy" onerror="this.remove()" /></span>
+<span class="ft-read-id"><b>Crunchyscan</b><i>webtoons، بواسطة مجتمع scantrad</i></span>
+</a>
+</div>
+</details>
+<nav class="ft-legal" aria-label="الشروط">
+<a href="/ar/terms">الشروط</a>
+<a href="/ar/privacy">الخصوصية</a>
+<a href="/ar/dmca">DMCA</a>
+<a href="/ar/contact">اتصل بنا</a>
+</nav>
+<div class="ft-lang">
+<button type="button" data-open-lang-sheet aria-label="اللغة" class="ft-lang-btn">
+<img src="/images/flags/sa.svg" alt="" aria-hidden="true" class="w-5 h-[15px] rounded-[2px] object-cover" loading="lazy" decoding="async" />
+<span class="font-semibold">العربية</span>
+<svg class="w-3.5 h-3.5 opacity-60" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="m6 9 6 6 6-6"/></svg>
+</button></div>
+<p class="ft-copy">© 2026 ShortDrama.st</p>
+</footer>
+<nav aria-label="تنقل الهاتف المحمول" class="rs-nav md:hidden">
+<a href="/ar/home" class="rs-nav-tab" data-active="false">
+<svg class="rs-nav-solid" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.47 3.84a.75.75 0 011.06 0l8.69 8.69a.75.75 0 101.06-1.06l-8.69-8.69a2.25 2.25 0 00-3.18 0l-8.69 8.69a.75.75 0 001.06 1.06l8.69-8.69z"/><path d="M12 5.43l8.16 8.16c.03.03.06.06.09.09v6.2A1.875 1.875 0 0118.375 21.75H15a.75.75 0 01-.75-.75v-4.5a.75.75 0 00-.75-.75h-3a.75.75 0 00-.75.75V21a.75.75 0 01-.75.75H5.625A1.875 1.875 0 013.75 19.875v-6.2c.03-.03.06-.06.09-.09L12 5.43z"/></svg>
+<svg class="rs-nav-outline" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75"/></svg>
+<span>الرئيسية</span>
+</a>
+<a href="/ar/feed" class="rs-nav-tab" data-active="false">
+<svg class="rs-nav-solid" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a1 1 0 011 1v16a1 1 0 01-1 1H4a1 1 0 01-1-1V4a1 1 0 011-1zm6 5.5v7l6-3.5-6-3.5z"/></svg>
+<svg class="rs-nav-outline" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><path stroke-linecap="round" stroke-linejoin="round" d="M10 8.5v7l6-3.5-6-3.5z"/></svg>
+<span>لك</span>
+</a>
+<a href="/ar/my-list" class="rs-nav-tab" data-active="false">
+<svg class="rs-nav-solid" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M17 3H7a2 2 0 00-2 2v16.5a.5.5 0 00.77.42L12 17.7l6.23 4.22a.5.5 0 00.77-.42V5a2 2 0 00-2-2z"/></svg>
+<svg class="rs-nav-outline" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M17 3H7a2 2 0 00-2 2v16l7-4 7 4V5a2 2 0 00-2-2z"/></svg>
+<span>قائمتي</span>
+</a>
+<a href="/ar/coins" class="rs-nav-tab" data-active="false">
+<span class="relative inline-flex">
+<span data-coin-dot class="sd-claim-dot" hidden aria-hidden="true"></span>
+<img src="/images/coins/coin-64.webp" alt="" aria-hidden="true" width="26" height="26" />
+</span>
+<span data-coin-badge>قطع نقدية</span>
+</a>
+<a href="/ar/profile" class="rs-nav-tab relative" data-active="false">
+
+<svg class="rs-nav-solid" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.685 19.097A9.723 9.723 0 0021.75 12c0-5.385-4.365-9.75-9.75-9.75S2.25 6.615 2.25 12a9.723 9.723 0 003.065 7.097A9.716 9.716 0 0012 21.75a9.716 9.716 0 006.685-2.653zm-12.54-1.285A7.486 7.486 0 0112 15a7.486 7.486 0 015.855 2.812A8.224 8.224 0 0112 20.25a8.224 8.224 0 01-5.855-2.438zM15.75 9a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z" clip-rule="evenodd"/></svg>
+<svg class="rs-nav-outline" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M17.982 18.725A7.488 7.488 0 0012 15.75a7.488 7.488 0 00-5.982 2.975m11.963 0a9 9 0 10-11.963 0m11.963 0A8.966 8.966 0 0112 21a8.966 8.966 0 01-5.982-2.275M15 9.75a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+<span>الملف الشخصي</span>
+</a>
+</nav>
+<div class="sm-root" data-sm-root hidden role="dialog" aria-modal="true" aria-label="ابحث عن الدراما">
+<div class="sm-panel" data-sm-panel>
+<div class="sm-head">
+<button type="button" class="sm-back" data-sm-close aria-label="إغلاق">
+<svg width="20" height="20" class="sm-ico-back rtl:rotate-180" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+<svg width="18" height="18" class="sm-ico-x" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" d="M6 18L18 6M6 6l12 12"/></svg>
+</button>
+<div class="rs-search has-action">
+<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" class="flex-shrink-0">
+<circle cx="11" cy="11" r="7"/><path stroke-linecap="round" d="M21 21l-4.35-4.35"/>
+</svg>
+<input type="search" data-sm-input class="sm-input" autocomplete="off" autocapitalize="off"
+spellcheck="false" placeholder="ابحث عن الدراما" aria-label="ابحث عن الدراما" />
+<button type="button" class="rs-search-action" data-sm-clear hidden aria-label="مسح">
+<svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" d="M6 18L18 6M6 6l12 12"/></svg>
+</button>
+</div>
+</div>
+<div class="sm-active" data-sm-active hidden></div>
+<div class="sm-body" data-sm-body>
+<div class="sm-skeleton" aria-hidden="true">
+<span></span><span></span><span></span>
+</div>
+</div>
+<script type="application/json" data-sm-i18n>{"genres":"الأنواع","platforms":"المنصات","trending":"الأكثر رواجًا الآن","exact":"تطابقات تامة","similar":"عروض مشابهة","results":"{n} نتائج","noResults":"لا توجد عروض تطابق “{q}”.","nothing":"لا يوجد شيء هنا بعد.","loadMore":"تحميل المزيد","failed":"تعذر تحميل النتائج.","slowDown":"عمليات بحث كثيرة جدًا — انتظر لحظة."}</script>
+</div>
+</div>
+<div data-lang-sheet class="fixed inset-0 z-[70]" hidden>
+<div data-lang-sheet-backdrop class="absolute inset-0 bg-black/60"></div>
+<div class="sheet-light" role="dialog" aria-modal="true" aria-labelledby="lang-sheet-title" style="position:absolute; padding-bottom:max(16px,env(safe-area-inset-bottom))">
+<div data-lang-drag class="lang-grip">
+<div class="sheet-handle" aria-hidden="true"></div>
+<div class="flex items-center justify-center relative mb-2 px-1">
+<h2 id="lang-sheet-title" class="sheet-title font-display text-xl">اللغة</h2>
+<button type="button" data-lang-sheet-close aria-label="إغلاق"
+class="sheet-close absolute end-0 w-9 h-9 flex items-center justify-center rounded-full active-press transition-colors">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.4"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>
+</button>
+</div>
+</div>
+<div class="lang-list overflow-y-auto">
+<a href="/set-lang/en?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">English</span>
+</a>
+<a href="/set-lang/zh?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">中文</span>
+</a>
+<a href="/set-lang/yue?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">粵語</span>
+</a>
+<a href="/set-lang/hi?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">हिन्दी</span>
+</a>
+<a href="/set-lang/es?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Español</span>
+</a>
+<a href="/set-lang/ar?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press bg-accent/10">
+<span class="text-[19px] text-accent font-black" >العربية</span>
+<span class="w-6 h-6 rounded-full bg-accent text-white flex items-center justify-center flex-shrink-0">
+<svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3"><path stroke-linecap="round" stroke-linejoin="round" d="m5 13 4 4L19 7"/></svg>
+</span>
+</a>
+<a href="/set-lang/fr?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Français</span>
+</a>
+<a href="/set-lang/bn?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">বাংলা</span>
+</a>
+<a href="/set-lang/pt?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Português</span>
+</a>
+<a href="/set-lang/ru?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Русский</span>
+</a>
+<a href="/set-lang/ur?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">اردو</span>
+</a>
+<a href="/set-lang/id?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Bahasa Indonesia</span>
+</a>
+<a href="/set-lang/de?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Deutsch</span>
+</a>
+<a href="/set-lang/ja?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">日本語</span>
+</a>
+<a href="/set-lang/mr?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">मराठी</span>
+</a>
+<a href="/set-lang/te?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">తెలుగు</span>
+</a>
+<a href="/set-lang/tr?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Türkçe</span>
+</a>
+<a href="/set-lang/ta?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">தமிழ்</span>
+</a>
+<a href="/set-lang/vi?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Tiếng Việt</span>
+</a>
+<a href="/set-lang/ko?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">한국어</span>
+</a>
+<a href="/set-lang/it?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Italiano</span>
+</a>
+<a href="/set-lang/th?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">ไทย</span>
+</a>
+<a href="/set-lang/fa?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">فارسی</span>
+</a>
+<a href="/set-lang/he?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">עברית</span>
+</a>
+<a href="/set-lang/pl?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Polski</span>
+</a>
+<a href="/set-lang/nl?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Nederlands</span>
+</a>
+<a href="/set-lang/uk?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Українська</span>
+</a>
+<a href="/set-lang/ms?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Bahasa Melayu</span>
+</a>
+<a href="/set-lang/fil?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Filipino</span>
+</a>
+<a href="/set-lang/sw?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Kiswahili</span>
+</a>
+<a href="/set-lang/az?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Azərbaycanca</span>
+</a>
+<a href="/set-lang/ro?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Română</span>
+</a>
+<a href="/set-lang/cs?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Čeština</span>
+</a>
+<a href="/set-lang/bg?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Български</span>
+</a>
+<a href="/set-lang/nb?back=%2Fbrowse%3Fplatform%3DNetShort%26lang%3DAR%26sort%3Dviews" rel="nofollow" data-turbo-action="replace"
+class="flex items-center justify-between gap-3 px-4 py-4 rounded-2xl active-press ">
+<span class="text-[19px] font-bold" style="color:var(--sheet-fg)">Norsk bokmål</span>
+</a>
+</div>
+</div>
+</div>
+<script>
+(function () {
+// Document-level listener + __SD_ONCE: survives Turbo body swaps without
+// stacking duplicates (the sheet element itself is replaced per render).
+if (!document.querySelector('[data-lang-sheet]')) return;
+window.__SD_ONCE = window.__SD_ONCE || {};
+if (window.__SD_ONCE.langSheet) return;
+window.__SD_ONCE.langSheet = 1;
+function panel() { var s = document.querySelector('[data-lang-sheet]'); return s && s.querySelector('.sheet-light'); }
+// Shared dialog contract (public/js/sheet.js): one history entry so the
+// phone's Back closes the sheet instead of leaving the page, focus into the
+// list and back to the opener, Esc, role=dialog. Guarded — sheet.js loads on
+// every layout that renders this partial, but the sheet must still open if
+// it ever doesn't.
+var dlg = null;
+function hide() {
+var s = document.querySelector('[data-lang-sheet]');
+if (!s) return;
+s.hidden = true;
+var p = s.querySelector('.sheet-light');
+if (p) { p.classList.remove('is-dragging', 'is-settling', 'is-expanded'); p.style.transform = ''; }
+}
+function close() {
+if (dlg) { var d = dlg; dlg = null; d.release(); }
+hide();
+}
+// A row tapped = a Turbo visit with the sheet open. The dialog handle
+// disposes itself on this event, but this closure outlives the body swap
+// (__SD_ONCE), so the spent handle must be dropped or the next open would
+// never get a fresh one (no Back-closes after the first switch); and the
+// sheet must be hidden BEFORE Turbo snapshots the body, or a later Back
+// restores the page with the sheet still open. Document-level, registered
+// once with the rest.
+document.addEventListener('turbo:before-cache', function () { dlg = null; hide(); });
+document.addEventListener('click', function (e) {
+if (e.target.closest && e.target.closest('[data-open-lang-sheet]')) {
+var s = document.querySelector('[data-lang-sheet]');
+if (s) {
+s.hidden = false;
+if (window.SDSheet && window.SDSheet.dialog && !dlg) {
+dlg = window.SDSheet.dialog(s.querySelector('.sheet-light') || s, {
+label: "اللغة",
+onClose: function () { dlg = null; hide(); },
+});
+}
+}
+return;
+}
+var cur = document.querySelector('[data-lang-sheet]');
+if (cur && !cur.hidden && (e.target.closest('[data-lang-sheet-close]') || e.target.hasAttribute('data-lang-sheet-backdrop'))) {
+close();
+}
+});
+// ── Drag the drawer (mobile) ──────────────────────────────────────────────
+// Grab the handle OR anywhere in the title row. Down past a threshold
+// dismisses, up expands the list, anything less snaps back. Desktop renders
+// this as a centred modal, where dragging makes no sense, so it is skipped by
+// the same breakpoint the CSS uses.
+var DISMISS = 110, EXPAND = -50;
+var drag = null;
+function isDesktop() { return window.matchMedia && window.matchMedia('(min-width: 768px)').matches; }
+document.addEventListener('pointerdown', function (e) {
+if (isDesktop()) return;
+var grip = e.target.closest && e.target.closest('[data-lang-drag]');
+if (!grip || e.target.closest('[data-lang-sheet-close]')) return;
+var p = panel();
+if (!p) return;
+var list = p.querySelector('.lang-list');
+drag = { y0: e.clientY, dy: 0, p: p, list: list, h0: list ? list.getBoundingClientRect().height : 0 };
+p.classList.add('is-dragging');
+p.classList.remove('is-settling');
+try { grip.setPointerCapture(e.pointerId); } catch (_) { }
+});
+document.addEventListener('pointermove', function (e) {
+if (!drag) return;
+drag.dy = e.clientY - drag.y0;
+// A bottom sheet is ANCHORED to the bottom edge. Dragging down slides it
+// toward dismissal; dragging up must make it TALLER, never move it — the
+// first version translated in both directions, which lifted the whole
+// drawer off the bottom and left a gap under it (owner 2026-09-01).
+if (drag.dy >= 0) {
+drag.p.style.transform = 'translateY(' + drag.dy.toFixed(1) + 'px)';
+if (drag.list) drag.list.style.maxHeight = '';
+} else {
+drag.p.style.transform = 'translateY(0px)';
+if (drag.list) {
+// Grow from the bottom, capped so the sheet can never exceed the screen.
+var grow = Math.min(-drag.dy, Math.max(0, window.innerHeight * 0.88 - drag.h0));
+drag.list.style.maxHeight = (drag.h0 + grow).toFixed(1) + 'px';
+}
+}
+});
+function endDrag() {
+if (!drag) return;
+var p = drag.p, dy = drag.dy, list = drag.list;
+drag = null;
+p.classList.remove('is-dragging');
+p.classList.add('is-settling');
+p.style.transform = '';
+// Hand the height back to the class so it animates to a settled size
+// instead of freezing at wherever the finger stopped.
+if (list) list.style.maxHeight = '';
+if (dy > DISMISS) close();
+else if (dy < EXPAND) p.classList.add('is-expanded');
+else if (dy > 40) p.classList.remove('is-expanded');
+}
+document.addEventListener('pointerup', endDrag);
+document.addEventListener('pointercancel', endDrag);
+})();
+</script><script>
+window.__I18N = window.__I18N || {};
+window.__LANG = "ar" || 'en';
+window.__BRAND = { brand: "ShortDrama", brandFull: "ShortDrama.st", brandOrigin: "https://shortdrama.st", brandHost: "shortdrama.st", brandSuffix: ".st", brandMark: "/images/shortdrama_mark.png", storagePrefix: "shortdrama", legacyStoragePrefix: "shortdrama", contactEmail: "contact@shortdrama.st", hashtags: ["#ShortDrama","#ShortDramas"] };
+// localStorage/sessionStorage key names are brand-prefixed. legacy=true reads the
+// prefix older visitors' data was written under (brand.legacyStoragePrefix) so a
+// rename never orphans their history; new keys always use storagePrefix.
+window.sdKey = function (name, legacy) {
+var b = window.__BRAND || {};
+var p = (legacy && b.legacyStoragePrefix) || b.storagePrefix || 'sd';
+return p + ':' + name;
+};
+window.__t = function (key, params) {
+var entry = window.__I18N[key];
+var s = typeof entry === 'string' && entry ? entry : null;
+if (entry && typeof entry === 'object' && params && params.count != null) {
+try {
+var cat = new Intl.PluralRules(window.__LANG).select(Number(params.count) || 0);
+s = entry[cat] || entry.other || null;
+} catch (e) { s = entry.other || null; }
+}
+s = s || key;
+// Brand placeholders ({brand}, {brandFull}, {brandOrigin}) resolve without
+// the caller passing them — mirrors src/i18n.js BRAND_PARAMS (docs/brand-pack.md).
+var p = params ? Object.assign({}, window.__BRAND, params) : window.__BRAND;
+s = s.replace(/\{(\w+)\}/g, function (m, n) { return p[n] == null ? m : String(p[n]); });
+return s;
+};
+// Locale-prefixed URLs for JS-built links. Server HTML gets its hrefs
+// rewritten after render (server.js localizeInternalLinks); client-built
+// links did not, so an /es/ viewer's card clicks were bare → 302 → prefixed.
+// Read the prefix from <body data-lang-prefix> at CALL time: Turbo swaps the
+// body on a locale switch while this head-time value would go stale.
+window.__PREFIX = "/ar" || '';
+// Poster image lane — client twin of the posterSrc/posterSrcset helpers
+// (src/img-lane.js, docs/images.md). JS-built cards call sdPosterAttrs(cover)
+// and get ` src="…" srcset="…" sizes="…"` (escaped). Lane off → plain src.
+window.__IMG_LANE = {"on":true,"proxy":"/media-proxy/","lane":"/media-proxy/img/","ladder":[160,240,320,480],"defaultW":240,"sizes":{"card":"auto, (max-width: 640px) 33vw, (max-width: 1024px) 20vw, 190px","wide":"auto, (max-width: 640px) 48vw, (max-width: 1024px) 25vw, 240px","thumb":"auto, 96px"}};
+window.sdImg = function (url, w, v) {
+var L = window.__IMG_LANE;
+if (!L || !L.on || typeof url !== 'string' || url.indexOf(L.proxy) !== 0 || url.indexOf(L.lane) === 0) return url || '';
+var rel = url.slice(L.proxy.length);
+return L.lane + rel + (rel.indexOf('?') === -1 ? '?' : '&') + 'w=' + (w || L.defaultW) + '&f=auto' + (v ? '&v=' + v : '');
+};
+window.sdPosterAttrs = function (url, kind, v) {
+var L = window.__IMG_LANE, esc = function (s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;'); };
+if (!L || !L.on || typeof url !== 'string' || url.indexOf(L.proxy) !== 0) return ' src="' + esc(url) + '"';
+var set = L.ladder.map(function (w) { return window.sdImg(url, w, v) + ' ' + w + 'w'; }).join(', ');
+return ' src="' + esc(window.sdImg(url, L.defaultW, v)) + '" srcset="' + esc(set) + '" sizes="' + esc(L.sizes[kind || 'card'] || L.sizes.card) + '"';
+};
+window.sdUrl = function (path) {
+var b = document.body, pre = b && b.dataset && b.dataset.langPrefix != null ? b.dataset.langPrefix : (window.__PREFIX || '');
+return pre + path;
+};
+// In-shell navigation: Turbo when present (keeps the app shell), else location.
+window.sdVisit = function (url, opts) {
+opts = opts || {};
+if (window.Turbo && window.Turbo.visit) return window.Turbo.visit(url, opts.replace ? { action: 'replace' } : undefined);
+if (opts.replace) location.replace(url); else location.assign(url);
+};
+// UI back that can only land on our own pages. The browser's back stack may
+// hold foreign entries — a popunder Direct Link that fell through to a
+// same-tab navigation (APK WebView, popup-blocked mobiles), or the Google
+// result that deep-linked here — and there is NO API to see where
+// history.back() would land, so the back arrows must never traverse it
+// blind. Instead every pageview is recorded in a per-tab trail and
+// sdBack() walks THAT: previous trail URL, else the caller's fallback.
+// Recording is idempotent breadcrumb-style: re-seeing a URL rewinds the
+// trail to it, which absorbs Turbo restoration visits, double-records, and
+// revisits (Home→A→Home→B backs to Home, not A). Identity is the URL the
+// page was RECORDED under (__SD_NAV_SELF), so in-page replaceState churn
+// (feed episode position, profile tab hashes, admin filters) never
+// misaligns the walk. Overlay pops (sheets, search modal, lightbox) keep
+// their own history.back() — they pop entries they pushed themselves.
+(function () {
+var KEY = 'sd_nav_trail';
+function loadTrail() {
+try { var t = JSON.parse(sessionStorage.getItem(KEY) || '[]'); return Array.isArray(t) ? t : []; }
+catch (_) { return []; }
+}
+function saveTrail(t) { try { sessionStorage.setItem(KEY, JSON.stringify(t.slice(-40))); } catch (_) { } }
+function here() { return location.pathname + location.search; }
+function record() {
+var u = here(), t = loadTrail(), i = t.lastIndexOf(u);
+if (i !== -1) t.length = i + 1; else t.push(u);
+saveTrail(t);
+window.__SD_NAV_SELF = u;
+}
+window.sdBack = function (fallback) {
+var t = loadTrail(), self = window.__SD_NAV_SELF || here(), i = t.lastIndexOf(self);
+if (i !== -1) { t.length = i; saveTrail(t); } // drop self: a fallback landing must not ping-pong back
+var prev = t.length ? t[t.length - 1] : null;
+window.sdVisit(prev || fallback || window.sdUrl('/home'));
+};
+record();
+if (!window.__SD_NAV_BOUND) { // shim re-runs per Turbo body swap; bind once
+window.__SD_NAV_BOUND = 1;
+// turbo:load covers every shell visit INCLUDING restorations (which do
+// not re-execute body scripts); the inline record() above covers full
+// loads and the no-Turbo feed layout. Re-records dedupe via the rewind.
+document.addEventListener('turbo:load', record);
+}
+})();
+</script>
+<script defer src="/i18n/ar.js?v&#x3D;1789048603101"></script><script defer src="/js/sd-media.js?v&#x3D;1789048603052"></script>
+<script defer src="/js/vendor/web-vitals.attribution.iife.js?v&#x3D;1789048603062"></script>
+<script defer src="/js/sd-rum.js?v&#x3D;1789048603053"></script>
+<script defer src="/js/sd-history.js?v&#x3D;1789048603050"></script>
+<script defer src="/js/sd-coinbadge.js?v&#x3D;1789048603053"></script>
+<script defer src="/js/sd-nudges.js?v&#x3D;1789048603053"></script>
+<script defer src="/js/popunder.js?v&#x3D;1789048603050"></script>
+<script defer src="/js/sheet.js?v&#x3D;1789048603051"></script>
+<script defer src="/js/modal.js?v&#x3D;1789048603053"></script>
+<script defer src="/js/tooltip.js?v&#x3D;1789048603051"></script>
+<script defer src="/js/rs-card.js?v&#x3D;1789048603052"></script>
+
+
+<script defer src="/js/browse.js?v&#x3D;1789048603049"></script>
+<script defer src="/js/search-suggest.js?v&#x3D;1789048603051"></script>
+<script defer src="/js/search-modal.js?v&#x3D;1789048603054"></script>
+<script type="text/javascript">
+var sc_project=13247469;
+var sc_invisible=1;
+var sc_security="d3278c4b";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - Statcounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/13247469/0/d3278c4b/1/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"68494d56f28e4e0cb70102ef61cef435","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

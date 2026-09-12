@@ -1,0 +1,28 @@
+GET /ar/browse?genre=Counterattack&lang=AR&sort=views h2
+host: shortdrama.st
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+accept: text/html, application/xhtml+xml
+x-sec-purpose: prefetch
+x-turbo-request-id: aa9135eb-3da7-4de4-aae0-3dc7eb8abc5a
+sec-ch-ua-mobile: ?1
+user-agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+sec-ch-ua-platform: "Android"
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://shortdrama.st/ar/browse?lang=AR&native=1&sort=views
+accept-encoding: gzip, deflate, br
+accept-language: ar-IQ,ar;q=0.9,en-IQ;q=0.8,en;q=0.7,en-US;q=0.6
+cookie: ph_phc_nLBwVqyeBPAvAd2uvVeQUp7mLwpTf4pDwcWh4begJqo2_posthog=%7B%22%24device_id%22%3A%22019f7ea5-e91d-7db2-86c3-c6136d948173%22%2C%22distinct_id%22%3A%22019f7ea5-e91d-7db2-86c3-c6136d948173%22%2C%22%24sesid%22%3A%5B1784581273022%2C%22019f8155-06db-7516-8332-0f61abdcda10%22%2C1784581260964%5D%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22%24direct%22%2C%22u%22%3A%22https%3A%2F%2Fshortdrama.st%2F%3Futm_source%3Dchatgpt.com%22%7D%2C%22%24user_state%22%3A%22anonymous%22%7D
+cookie: sd_hv=v2.1789231554647.Y61hW9NCJHr4zSzq.zHLajoLMRvm6.r0idmfrZ-ydpCRsWSGNmu62SaFIDzIji
+cookie: aabv=ba98ebd45b91f95227
+cookie: sd_gid=v2.12225.97NosDGx5VNhznlhCJFHqpF9AAvi4Ru5
+cookie: hu8935j4i9fq3hpuj9q39=true
+cookie: s9ifs0idfjlwfie32dekl=2
+cookie: pp_main_859ec32d8f41101f868dce2e0f82046c=1
+cookie: sd_mt=v1.1789197617760.f.kpqYcehk_RWKOKfbjVlJ8IJAetGmMCwj
+cookie: cf_clearance=XJOS4YW0uiUuC5uo6ESC5qLT4hd.BWDjJfQPLojND6E-1789190419-1.2.1.1-BVddLOaw5a_4npUvthEZkWOMFgRg7leWVOpHHDIYKXVlHRdz1YJyHi0ci9Da2A1VzEWZTBUlPMJfzl3dVqTDRQzQG9Aqv9RWKOjvBFN1yDRf6IfiwfQlN8m8CbnBmYiYhYFh8PTMqAfH_TQMfePW3qoZ_0xFfKVxOdRcSjP2BFPz4aeg08lqryAUVnBBCc3IoOrptiUJ1ZdfFswgHCtFvFxHdGkXlbzIVpz_J.TtmKaB1peRQtbiObUcqgd84S8o4xGTSWOt0oVHBmuR3RytQpwrCu39keJe9jVu3tADMNBuaRRt0W7NGEC2KJ2mdI0tGPj6ceyc3zyDrNPEz.t66RpDlpptym5zzLxGFwVG6XzK55DUttgmD9ilI3aXFatsvsqX93wNJW_uDtAb0FrxWqCPoq3LbxkBTKWwleCrAWJgQfiCI378CLqMoWoKZD.8
+cookie: sc_is_visitor_unique=rx13247469.1789190430.F1B5EE4522AD4E11B04A28A6FB7BB240.1.1.1.1.1.1.1.1.1
+cookie: pp_sub_859ec32d8f41101f868dce2e0f82046c=4
+cookie: pp_delay_859ec32d8f41101f868dce2e0f82046c=1
+

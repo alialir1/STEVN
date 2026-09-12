@@ -1,0 +1,25 @@
+GET /ar/home h2
+host: shortdrama.st
+cache-control: max-age=0
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?1
+sec-ch-ua-platform: "Android"
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: none
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+accept-encoding: gzip, deflate, br
+accept-language: ar-IQ,ar;q=0.9,en-IQ;q=0.8,en;q=0.7,en-US;q=0.6
+cookie: ph_phc_nLBwVqyeBPAvAd2uvVeQUp7mLwpTf4pDwcWh4begJqo2_posthog=%7B%22%24device_id%22%3A%22019f7ea5-e91d-7db2-86c3-c6136d948173%22%2C%22distinct_id%22%3A%22019f7ea5-e91d-7db2-86c3-c6136d948173%22%2C%22%24sesid%22%3A%5B1784581273022%2C%22019f8155-06db-7516-8332-0f61abdcda10%22%2C1784581260964%5D%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22%24direct%22%2C%22u%22%3A%22https%3A%2F%2Fshortdrama.st%2F%3Futm_source%3Dchatgpt.com%22%7D%2C%22%24user_state%22%3A%22anonymous%22%7D
+cookie: cf_clearance=ujUTrXCxvHCWUzKe44IUQxVuG0FBu6KGLxdv_20gcqk-1789188333-1.2.1.1-JzmcKQk.VrUDnlrkXgl91r7f7fsi4LGKpA6exE6v2vWx_aDjDWqBuI5vUBhHmVwFlLIxTqeQLocuxR3z2uQhVAw5.p4OVLGUEpVmQAgs51lzPNjWGuBKuhWxvDPEdSja2TGMrLspWBQWBwt4qYcaNlnv3VDXsiqZrfoqSTGm0LMwv33ZH1KedJ0X5K.tfZcXEQlbeAD6Wx_su8_PjjzF58v2EeuoKwmmjMXgy_AHsAINuipy9fzhq25hH76NuOxEIpI45zPWhItzdKiMj6le839RKt77ECAx4BhC2udHQo.2H7FaX1Hlny3JLZ3jKLDVBM.J8t8LD3DLzJ22tC_tW17SVEzWz0TLjA7q7IT5uCpxT_3KX8ZxxD3gdtBe5iw4AvS3niL4ByTGAKTwh2zDt03USRTak3XQqLmpQHc8WuEPiIfQ99wUMOFcx.EZZTIpgZ4louEmsEFIgafTpq0lLZl66XBRQrAkx85YT7wBamBb.x2gcgqD87ZlN7Wl8ZupkOGI4i9N6tG345O3kPW0_A
+cookie: sd_hv=v2.1789231554647.Y61hW9NCJHr4zSzq.zHLajoLMRvm6.r0idmfrZ-ydpCRsWSGNmu62SaFIDzIji
+cookie: aabv=ba98ebd45b91f95227
+cookie: sd_gid=v2.12225.97NosDGx5VNhznlhCJFHqpF9AAvi4Ru5
+cookie: hu8935j4i9fq3hpuj9q39=true
+cookie: s9ifs0idfjlwfie32dekl=2
+cookie: sd_mt=v1.1789195760337.f.8da3UYqSax9c4Ia_KHSGWpKoM4snPjha
+cookie: sc_is_visitor_unique=rx13247469.1789188589.F1B5EE4522AD4E11B04A28A6FB7BB240.1.1.1.1.1.1.1.1.1
+

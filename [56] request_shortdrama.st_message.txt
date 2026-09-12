@@ -1,0 +1,23 @@
+GET /api/feed/the-road-through-fire/1 h2
+host: shortdrama.st
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?1
+user-agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+sec-ch-ua-platform: "Android"
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://shortdrama.st/ar/series/the-road-through-fire/1
+accept-encoding: gzip, deflate, br
+accept-language: ar-IQ,ar;q=0.9,en-IQ;q=0.8,en;q=0.7,en-US;q=0.6
+cookie: ph_phc_nLBwVqyeBPAvAd2uvVeQUp7mLwpTf4pDwcWh4begJqo2_posthog=%7B%22%24device_id%22%3A%22019f7ea5-e91d-7db2-86c3-c6136d948173%22%2C%22distinct_id%22%3A%22019f7ea5-e91d-7db2-86c3-c6136d948173%22%2C%22%24sesid%22%3A%5B1784581273022%2C%22019f8155-06db-7516-8332-0f61abdcda10%22%2C1784581260964%5D%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22%24direct%22%2C%22u%22%3A%22https%3A%2F%2Fshortdrama.st%2F%3Futm_source%3Dchatgpt.com%22%7D%2C%22%24user_state%22%3A%22anonymous%22%7D
+cookie: sd_hv=v2.1789231554647.Y61hW9NCJHr4zSzq.zHLajoLMRvm6.r0idmfrZ-ydpCRsWSGNmu62SaFIDzIji
+cookie: aabv=ba98ebd45b91f95227
+cookie: sd_gid=v2.12225.97NosDGx5VNhznlhCJFHqpF9AAvi4Ru5
+cookie: hu8935j4i9fq3hpuj9q39=true
+cookie: s9ifs0idfjlwfie32dekl=2
+cookie: cf_clearance=KtDMYXGaj4Bi.AfNE8aS8O17S017MXrW5jN5G_7KwcE-1789190036-1.2.1.1-n1YPJawCtk4JxjBeozzFjhx3bCQOPVfg_zP5WCiTtdFNO3YyEpDzSyUkJDMoLK1d0YrRbs2fdTeckO975qX3GPBOO46YO0IGbjGE1HSIFKuIxZ80MYy607jPzniaShRSF1ZJLiBH3pC6nDeTh0QVWYoxei8D.LhVmoF12mOzBdUDL5csDvBij22chb0lk5e2Cxcf0d.m1j5FuUX60uFtJrtffxYfiqNmLLnGWJUJ5iTQnLP13OGNyXRAvg8XZnPD5SAbSSTBqEtEd07nYEeBE8nmh2yukZ0V.K8ONtS9M1wwMnO24CltuC.e08vBRYJESqKjzPRsgx4aQSGOuDhfrgnG40tht_Gclpjek0Dc.K3zOPte7D_hq7oh3rgbFOfVkfbFNOmH.KNFtdm.H0DB1BB0fnouG8FM7eKOEerFFsb8FBk_Rw49XgomHKWJw2thWNM17uQQsnWEbKAY0tsr2Q
+cookie: sd_mt=v1.1789197343243.f.ur6r7D9CP32KqJg-9fszzCZLCvpwvPcl
+cookie: sc_is_visitor_unique=rx13247469.1789190143.F1B5EE4522AD4E11B04A28A6FB7BB240.1.1.1.1.1.1.1.1.1
+

@@ -1,0 +1,18 @@
+h2 200
+date: Sat, 12 Sep 2026 05:19:50 GMT
+content-type: application/json; charset=utf-8
+cf-ray: a39c75a339a31e47-EBL
+cf-cache-status: DYNAMIC
+cache-control: no-store
+content-language: ar
+etag: W/"58d-VqrPd0BiZYhDbNca3OdXiRkH5Ms"
+server: cloudflare
+set-cookie: sd_mt=v1.1789197590527.f.EHmkTCGEDUBMI_XvCCqxwn6OMN_3PBRS; Max-Age=7200; Domain=.shortdrama.st; Path=/; Expires=Sat, 12 Sep 2026 07:19:50 GMT; HttpOnly; Secure; SameSite=Lax
+strict-transport-security: max-age=31536000
+x-powered-by: Express
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kIJgN4fl%2FvEEiNmvI234mV8TLFlOk9Nwmg%2BjTOrY2DupNFcQ2wrHnYzcw4VTfBk0IBRoVh2bUDpGODjNMcUrD0NWF6CQkCNOvqQMspcv36Dqa5BDqPsUB%2FGttm85dx3q"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+content-encoding: br
+alt-svc: h3=":443"; ma=86400
+
+{"progressive":true,"series":{"slug":"the-road-through-fire","title":"The Road Through Fire","total":50,"platform":"DramaBox","platformAsset":"/assets/platforms/dramabox.png"},"pos":1,"freeMax":10,"firstLocked":11,"window":[{"pos":1,"id":1000004969112,"title":"EP 1","locked":false,"canUnlock":false,"streamUrl":"/media-proxy/ext/hwztakavideo.dramaboxdb.com/fea7d6f4245b9736cae2be1d8c571b9a/6a94e952/76/0x9/09x9/099x5/09952000024/701548467_2/701548467.720p.narrowv3.mp4","thumb":"/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t=1787902937247","hearts":0,"saves":0,"hearted":false,"saved":false},{"pos":2,"id":1000004969113,"title":"EP 2","locked":false,"canUnlock":false,"streamUrl":"/media-proxy/ext/hwztakavideo.dramaboxdb.com/71513a37e92327b9b57d5ba9df225c70/6a94e953/86/0x9/09x9/099x5/09952000024/701548468_1/701548468.720p.narrowv3.mp4","thumb":"/media-proxy/ext/hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025990/42000025990.jpg?t=1787902937247","hearts":0,"saves":0,"hearted":false,"saved":false}],"coin":{"enabled":true,"balance":0,"cost":100,"reward":100},"vastTag":"https://www.videosprofitnetwork.com/watch.xml?key=3eb279a4ee8c32dd462b0a4c331fcb79","nativeAd":null,"directLink":"https://airconditionstrodefist.com/rqqifkmk?key=00954f3e3eff3de247688e07dc6b2e74","directLinkCooldownMin":0,"directLinkMaxDay":0,"adSlide":null,"human":true}
